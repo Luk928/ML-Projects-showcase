@@ -1,0 +1,52 @@
+PROPERTIES SOLD FILE - SALE VALIDATION CODES,,,
+Revision date: 06-10-2015,,,
+,,,
+Sale validation codes are used to indicate whether or not a sale price was representative of current market value.,,,
+They are subjective and are assigned by the Allegheny County Office of Property Assessments as sales are reviewed.,,,
+"The assigned code may change as additional information is discovered, but typically they do not change once set.",,,
+,,,
+"The purpose of sale validation codes is primarily for use by Pennsylvania's Tax Equalization Division (TED), formerly the State Tax Equalization Board (STEB).",,,
+TED annually determines the aggregate market value of taxable real estate property in each political subdivision and school district throughout the Commonwealth of Pennsylvania.,,,
+They also establish a common level ratio of assessed value to market value for each county for the prior calendar year.,,,
+All sales in Allegheny County are reported to TED for this purpose as required per state law.,,,
+,,,
+Valid sales indicate that the sale price was judged to be representative of the current market value.,,,
+"These sales are often referred to as ""arm's length"" transactions.",,,
+,,,
+Invalid sales indicate that the price is likely not reliable as being representative of the true market value.,,,
+"For these cases, categories explaining the reason have been provided.",,,
+"If a sale was invalid for multiple reasons, only one reason is selected.",,,
+,,,
+"The sale validation codes in use by the Allegheny County Office of Property Assessments were modified in 2014 per guidelines set collaboratively by TED, the Assessors Association of Pennsylvania (AAP), and the International Association of Assessing Officers (IAAO). Below is a summary of the current sale validation categories.",,,
+,,,
+,,,
+,,,
+Validity Group,Code,Code Description,Additional Description
+Undetermined,AA,SALE NOT ANALYZED,Pending review. Determination of validity status for the sale has not yet been made.
+Valid Sale,0,VALID SALE,Review found that sale was valid. 
+Valid Sale,U,OTHER VALID,Preliminary review found that sale was valid.
+Valid Sale,UR,OTHER VALID,Preliminary review found that sale was valid.
+Invalid Sale,1,SHERIFF SALE,"These sales usually include all sales from the Sheriff, Tax Claim Bureau and other forced sales. These sales are often made in lieu of foreclosure and are not exposed to the open market."
+Invalid Sale,32,COURT ORDERED SALE,"These sales may include all sales from Tax Claim Bureaus and other forced sales, including sales pursuant to judicial order. These sales are often made in lieu of foreclosure and are not exposed to the open market."
+Invalid Sale,2,CITY TREASURER SALE,"Sales to or from any governmental agency or public utility are usually invalid. These sales include but are not limited to schools, municipal buildings, or former utility buildings and rights-of-way. Sales to government agencies can involve an element of compulsion and often occur at prices higher than would otherwise be expected. When the governmental agency is the seller, values typically fall on the low end of the value range."
+Invalid Sale,GV,GOVERNMENT SALE,"Sales to or from any governmental agency or public utility are usually invalid. These sales include but are not limited to schools, municipal buildings, or former utility buildings and rights-of-way. Sales to government agencies can involve an element of compulsion and often occur at prices higher than would otherwise be expected. When the governmental agency is the seller, values typically fall on the low end of the value range."
+Invalid Sale,3,LOVE AND AFFECTION SALE,"Sales between close relatives (parents, children, aunts, uncles, nephews, nieces, and grandparents) are usually non-open-market transactions. Family transfers often have a sale price of $1 or $10."
+Invalid Sale,6,CHANGED AFTER SALE,The physical characteristics of the property have changed significantly so that the current value is not representative of the value at the time of sale.
+Invalid Sale,9,OTHER INVALID SALES INDICATED,"The appraiser feels the sale should be invalid, but the reason does not fall into any of the listed categories."
+Invalid Sale,13,EXEMPT BUYER OR SELLER,"Sales to or from any charitable/religious/educational institution or other tax exempt agency are usually invalid.  These sales can include but are not limited to churches and hospitals. A sale to such an organization can involve an element of philanthropy, and a sale by such an organization can involve a nominal consideration or restrictive covenants. These sales often involve partial gifts and therefore are generally not representative of market value."
+Invalid Sale,14,TIME ON MARKET (INSUFF/EXCESS),"Sales of properties that have been actively listed on the market too long, not long enough, or not at all may not represent market value. Actively listed usually means listed with a realtor or other real estate professional. The typical marketing time is dependent upon local factors and may be longer in a depressed market."
+Invalid Sale,16,BUILDING NOT YET ASSESSED,Sales where the sale price includes the improvement (building) but the assessment office has not yet assessed the new construction. 
+Invalid Sale,19,INCLUDES PERSONAL PROPERTY,Sales that include equipment or personal property are invalid unless the consideration paid for the real estate is set forth separately.
+Invalid Sale,27,NO ASSESSED VALUATION,"Sale of Property conveyed only a portion of the assessed unit and/or had no Assessed Value at time of Transfer, i.e. Subdivisions, Splits or Cut-offs."
+Invalid Sale,33,SALE OF PREVIOUS FORECLOSURE - INVALID,Resale of a foreclosed property below market value. Usually a bank is the seller.
+Invalid Sale,34,SHORT SALE - INVALID,"Sale was for less than market value, with the mortgage holder's consent, in order to mitigate losses. Often done in order to avoid foreclosure."
+Invalid Sale,35,CORPORATION TRANSFER,"Sales between Corporate Affiliates are usually non-open-market transactions involving business considerations not related to the real estate. Acquisitions or Divestments are transfers between related corporate entities. For example, if the buyer and seller have the same mailing address on record then they likely are affiliates. Sales between related entities will be invalid because they would be considered corporate affiliates. "
+Invalid Sale,36,QUIT CLAIM / SPECIAL WARRANTY,"Sales in which title is in doubt tend to be below market value. When a sale is made on other than a warranty deed, there is a question of whether the title is merchantable. Deeds of doubtful title include but are not limited to Special Warranty Deeds, Bargain & Sale Deed, and Quit Claim Deeds. "
+Invalid Sale,37,ESTATE SALE,"A conveyance by an executor or trustee under powers granted in a will may not represent fair market value, particularly if the sale takes place soon after the will has been filed and admitted to probate in order to satisfy the decedent’s debts or the wishes of an heir. "
+Invalid Sale,99,CORRECTIVE DEED / DUPLICATE SALE,"A sale of a property that occurs more than once in the same calendar year, or a transfer of property done for the sole purpose of correcting defects in the title. These sales usually have no consideration. "
+Invalid Sale,BK,BANK/FINANCIAL INSTITUTION,"Property transfers where the financial institution is the grantee (buyer) could be in lieu of foreclosure and are most likely a forced sale. These sales are often not exposed to the open market. The majority of the sales in which the financial institution is the grantor (seller) are properties that were formerly foreclosed on by the financial institution. These sales typically are on the low side of the value range because the financial institution is highly motivated to sell and may be required by banking regulations to remove the property from its books. The longer the property is carried on the books by the financial institution, the lower the asking price is likely to be."
+Invalid Sale,DT,DATE OF TRANSFER (RECORD YR <> SALE YR),"The date of execution of a deed is the date of sale. As long as the document is recorded in the same calendar year, the sale is valid. However, if the date of execution is in a different year than it is recorded, the sale should be considered invalid. "
+Invalid Sale,H,MULTI-PARCEL SALE,"These are sales which include additional side lots to a primary residence or when multiple lots are sold together on one deed with one consideration. These sales will generally be considered invalid because it is often impossible to determine the actual consideration paid for any single parcel. The sale price indicates the total price paid for a group of parcels, not just for one parcel."
+Invalid Sale,N,NOT APPLICABLE,Conveyances of certain types of personal property are not considered sales of real estate.
+Invalid Sale,PA,PREFERENTIAL ASMT,"The sale of properties which include special tax abatement programs will generally be considered invalid. These include any parcel receiving Special or Preferred Assessments (i.e. Clean and Green, Lerta, KOZ, TIF, PILOT, etc.)"
+Discontinued Codes,all other codes,OTHER,"These are formerly used codes that have been discontinued. If any occur they should be considered invalid. (UX, VB, VH, 0X, 50, PX, X, XX, YY, Z, 21, 24, 25, 26, 28, 29, 4, 5, 7, 8, S, V, ND)"

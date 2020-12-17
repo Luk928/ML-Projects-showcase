@@ -1,0 +1,35 @@
+Field Name,Data Type and Length,Field Description,Example,Additional Data Details
+PARID,A30,Parcel Identification Number,0030A00190000000,A 16 character unique identifier for the parcel.
+PROPERTYHOUSENUM,NBR(10),Property Location House Number,3016,House Number for the  physical location of property; may be zero or blank.
+PROPERTYFRACTION,A6,Property Location House Number Fraction,2-Jan,"Continued House Number information for the  physical location of property; such as 1/2, the house number ending range, or a letter. "
+PROPERTYADDRESSDIR,A2,Property Location Street Directional,"(e.g.  N, S, etc….)",Directional indicator of the street name for the physical location of the property.
+PROPERTYADDRESSSTREET,A30,Property Location Street Name,HARCUM,Street name for the physical location of the property.
+PROPERTYADDRESSSUF,A8,Property Location Street Type,WAY,Suffix of the street name for the physical location of the property.
+PROPERTYADDRESSUNITDESC,A10,Property Location Unit Description,"(e.g. UNIT, APT, STE, BLDG, etc…)",Unit description for the physical location of the property.
+PROPERTYUNITNO,A10,Property Location Unit Number,"(e.g. 1, 3C,  115A, B13, etc….)",Unit number for the physical location of the property.
+PROPERTYCITY,A40,Property Location City Name,PITTSBURGH,City where the property is physically located.
+PROPERTYSTATE,A2,Property Location State Name,PA,State where the property is physically located.
+PROPERTYZIP,A5,"Property Location Zip code, first 5 digits",15203,Zip Code where the property is physically located.
+SCHOOLCODE,A5,School District Code,47,"School district number
+associated with specified parcel."
+SCHOOLDESC,A40,School District Name,City Of Pittsburgh,"School district name
+associated with specified parcel."
+MUNICODE,A5,Municipality Code (Tax District),116,"Municipality number
+associated with specified parcel."
+MUNIDESC,A40,Municipality Name,16th Ward - PITTSBURGH,"Municipality name
+associated with specified parcel."
+RECORDDATE,A10,Date Sale was Recorded,11/26/2014,"Date the sale was recorded 
+in the Department of Real Estate. Format is mm/dd/yyyy."
+SALEDATE,A10,Sale Date,11/4/2014,Date the sale occurred. Format is mm/dd/yyyy.
+PRICE,A40,Sale Price,35000,"Amount paid for the sale 
+(also called consideration)."
+DEEDBOOK,A8,Deed Book Number,15811,"Cross-reference to the physical book number 
+where the deed is on file
+in the Department of Real Estate."
+DEEDPAGE,A8,Page Number,248,"Page within the specified deed book 
+corresponding to the first page of 
+this physical deed."
+SALECODE,A2,Sale Validation Code,AA,"A subjective categorization code denoting whether or not the sale price was representative of current market value. These categorizations are subject to change as sales are reviewed by the Office of Property Assessments or during a reassessment. See further explanation in the ""Sale Validation Codes Details"" resource.  "
+SALEDESC,A40,Sale Validation Code Description,SALE NOT ANALYZED,"A description of the code denoting whether or not the sale price was representative of current market value. These categorizations are subject to change as sales are reviewed by the Office of Property Assessments or during a reassessment. See further explanation in the ""Sale Validation Codes Details"" resource.  "
+INSTRTYP,A2,Instrument Type,SD,A code describing the type of document used to record the real property transfer.
+INSTRTYPDESC,A40,Instrument Description,Sheriffs Deed,A description of the type of document used to record the real property transfer.
