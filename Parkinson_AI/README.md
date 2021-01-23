@@ -7,7 +7,6 @@ The aim of this project was to create a deep learning classifier capable of diag
     * csvs - Directory containing csv files with extracted features for each fearture set for both split and whole files
     * full_model_testing - Directory containing both csv files with training parameters and exported models for each fold trained with the newest model version
     * layer_test_train_outputs - Directory with csv files containing training parameters of multiple tested deep layer architectures
-    * Test sripts - Directory containing test script, not used in final project
     * train_outputs - Directory containing csv files with training parameters for the first model version
 
 2. Files:

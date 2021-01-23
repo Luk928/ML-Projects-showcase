@@ -7,3 +7,4 @@ This repository contains all of my machine learning and neural networks projects
 * Properties - mostly data cleaning project on government property data. Random forest.
 * Studia - folder with my minor college projects. Various algorithms, more detailed description inside.
 * Healthcare - trying to predict patients length of stay, a Kaggle dataset. Random forest.
+* MySQL - directory containing my MySQL projects.
