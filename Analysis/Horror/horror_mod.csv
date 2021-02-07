@@ -1,0 +1,545 @@
+Movie_Name;Director;Year;Jump_Count;Jump_Scare__Rating;Imdb;MPAA_Rating;Genre;Month;Budget;Worldwide_Gross;Netflix__(US);Duration;jump_IMDB_coef;jump_duration_ratio
+10 Cloverfield Lane;Dan Trachtenberg;2016;8;2.5;7.2;PG-13;Drama, Horror, Mystery;March;15000000.0;110216998.0;No;104;57.6;0.07692307692307693
+28 Days Later;Danny Boyle;2003;10;3.0;7.6;R;Drama, Horror, Sci-Fi;June;8000000.0;85720385.0;No;113;76.0;0.08849557522123894
+28 Weeks Later;Juan Carlos Fresnadillo;2007;17;3.5;7.0;R;Drama, Horror, Sci-Fi;May;15000000.0;64238440.0;No;100;119.0;0.17
+30 Days of Night;David Slade;2007;9;2.5;6.6;R;Action, Horror, Thriller;October;30000000.0;75505977.0;No;113;59.4;0.07964601769911504
+31;Rob Zombie;2016;8;2.5;5.1;R;Horror, Thriller;September;1500000.0;850419.0;No;102;40.8;0.0784313725490196
+47 Meters Down;Johannes Roberts;2017;11;3.0;5.6;PG-13;Adventure, Drama, Horror;June;5300000.0;62187529.0;Yes;89;61.599999999999994;0.12359550561797752
+1408;Mikael Håfström;2007;8;3.0;6.8;PG-13;Fantasy, Horror, Mystery;June;25000000.0;132033383.0;No;114;54.4;0.07017543859649122
+1922;Zak Hilditch;2017;2;1.0;6.3;TV-MA;Crime, Drama, Horror;October;;;Yes;102;12.6;0.0196078431372549
+A Cure for Wellness;Gore Verbinski;2016;6;1.5;6.4;R;Drama, Fantasy, Horror;February;40000000.0;26620002.0;No;146;38.400000000000006;0.0410958904109589
+A Ghost Story;David Lowery;2017;3;1.0;6.8;R;Drama, Fantasy, Romance;July;100000.0;1951683.0;No;92;20.4;0.03260869565217391
+A Girl Walks Home Alone at Night;Ana Lily Amirpour;2014;0;0.0;7.0;NR;Drama, Horror;April;491910.0;546352.0;No;101;0.0;0.0
+A Nightmare on Elm Street;Wes Craven;1984;11;2.5;7.5;R;Horror;November;1800000.0;25504513.0;No;101;82.5;0.10891089108910891
+A Nightmare on Elm Street;Samuel Bayer;2010;15;3.0;5.2;R;Crime, Drama, Horror;April;35000000.0;115664037.0;No;95;78.0;0.15789473684210525
+A Nightmare on Elm Street 2: Freddy's Revenge;Jack Sholder;1985;8;2.0;5.5;R;Horror;November;3000000.0;29999213.0;No;87;44.0;0.09195402298850575
+A Nightmare on Elm Street 3: Dream Warriors;Chuck Russell;1987;11;2.5;6.6;R;Fantasy, Horror;February;4500000.0;44793222.0;No;88;72.6;0.125
+A Quiet Place;John Krasinski;2018;14;4.0;7.5;PG-13;Drama, Horror, Sci-Fi;April;17000000.0;340939361.0;No;90;105.0;0.15555555555555556
+A Tale of Two Sisters;Jee-woon Kim;2003;14;3.0;7.2;R;Drama, Horror, Thriller;June;3700000.0;1045252.0;No;115;100.8;0.12173913043478261
+Absentia;Mike Flanagan;2011;8;2.0;5.8;R;Drama, Horror, Mystery;April;70000.0;8555.0;No;87;46.4;0.09195402298850575
+Alien;Ridley Scott;1979;11;2.5;8.4;R;Horror, Sci-Fi;June;11000000.0;106497869.0;No;116;92.4;0.09482758620689655
+Alien: Covenant;Ridley Scott;2017;6;2.0;6.4;R;Horror, Sci-Fi, Thriller;May;97000000.0;240891763.0;No;122;38.400000000000006;0.04918032786885246
+Alien 3;David Fincher;1992;12;2.5;6.5;R;Action, Horror, Sci-Fi;May;50000000.0;159814498.0;No;145;78.0;0.08275862068965517
+Alien: Resurrection;Jean-Pierre Jeunet;1997;9;3.0;6.2;R;Action, Horror, Sci-Fi;November;75000000.0;161376068.0;No;116;55.800000000000004;0.07758620689655173
+Aliens;James Cameron;1986;13;3.0;8.4;R;Action, Adventure, Sci-Fi;July;18500000.0;131335326.0;No;154;109.2;0.08441558441558442
+Alone;Banjong Pisanthanakun, Parkpoom Wongpoom;2007;21;4.5;6.8;NR;Drama, Horror, Thriller;March;;9559978.0;No;105;142.79999999999998;0.2
+Altered States;Ken Russell;1980;2;0.5;6.9;R;Horror, Sci-Fi, Thriller;December;14900000.0;19853892.0;No;102;13.8;0.0196078431372549
+Amityville: The Awakening;Franck Khalfoun;2017;11;3.0;4.8;PG-13;Horror, Thriller;October;;7701908.0;No;85;52.8;0.12941176470588237
+Amnesiac;Michael Polish;2015;1;0.5;4.3;TV-MA;Drama, Horror, Mystery;November;3000000.0;61192.0;No;90;4.3;0.011111111111111112
+An American Werewolf in London;James Landis;1981;14;3.0;7.5;R;Comedy, Horror;August;10000000.0;30565292.0;No;97;105.0;0.14432989690721648
+An American Werewolf in Paris;Anthony Waller;1997;11;2.5;5.1;R;Comedy, Fantasy, Horror;December;25000000.0;26570463.0;No;105;56.099999999999994;0.10476190476190476
+Anaconda;Luis Llosa;1997;9;2.0;4.8;PG-13;Action, Adventure, Horror;April;45000000.0;136885767.0;No;89;43.199999999999996;0.10112359550561797
+Anna;Jorge Dorado;2013;5;1.0;6.5;R;Drama, Mystery, Sci-Fi;January;7000000.0;1257142.0;No;99;32.5;0.050505050505050504
+Annabelle;John R. Leonetti;2014;11;3.5;5.4;R;Horror, Mystery, Thriller;October;6500000.0;257047661.0;No;99;59.400000000000006;0.1111111111111111
+Annabelle Comes Home;Gary Dauberman;2019;20;4.0;6.0;R;Horror, Mystery, Thriller;June;27000000.0;228552591.0;No;106;120.0;0.18867924528301888
+Annabelle: Creation;David F. Sandberg;2017;23;4.5;6.5;R;Horror, Mystery, Thriller;August;15000000.0;306515884.0;No;109;149.5;0.21100917431192662
+Annihilation;Alex Garland;2018;4;1.5;6.9;R;Adventure, Drama, Horror;February;40000000.0;43070915.0;Yes;115;27.6;0.034782608695652174
+Apollo 18;Gonzalo López-Gallego;2011;10;3.0;5.2;PG-13;Horror, Mystery, Sci-Fi;September;5000000.0;25562924.0;No;86;52.0;0.11627906976744186
+Apostle;Gareth Evans;2018;5;1.5;6.3;TV-MA;Drama, Fantasy, Horror;October;;;Yes;130;31.5;0.038461538461538464
+Army of Darkness;Sam Raimi;1992;9;2.0;7.5;R;Comedy, Horror;February;11000000.0;11502976.0;No;81;67.5;0.1111111111111111
+Arrival;Denis Villeneuve;2016;3;0.5;7.9;PG-13;Drama, Mystery, Sci-Fi;November;47000000.0;203388186.0;No;116;23.700000000000003;0.02586206896551724
+As Above, So Below;John Erick Dowdle;2014;7;3.0;6.2;R;Horror, Mystery, Thriller;August;5000000.0;41898409.0;Yes;93;43.4;0.07526881720430108
+Attack the Block;Joe Cornish;2011;12;3.0;6.6;R;Action, Comedy, Sci-Fi;May;13000000.0;5824175.0;No;88;79.19999999999999;0.13636363636363635
+Audition;Takashi Miike;1999;1;0.5;7.2;R;Drama, Horror, Mystery;March;;359853.0;No;115;7.2;0.008695652173913044
+Backcountry;Adam MacDonald;2014;4;0.5;6.0;R;Drama, Horror, Thriller;March;1200000.0;13848.0;Yes;92;24.0;0.043478260869565216
+Backtrack;Michael Petroni;2015;14;3.5;5.9;R;Drama, Fantasy, Mystery;January;;905669.0;No;90;82.60000000000001;0.15555555555555556
+Banshee Chapter;Blair Erickson;2013;22;5.0;5.5;R;Horror, Sci-Fi, Thriller;December;950000.0;;No;87;121.0;0.25287356321839083
+Before I Wake;Mike Flanagan;2016;9;3.0;6.2;PG-13;Drama, Fantasy, Horror;January;;3965086.0;Yes;97;55.800000000000004;0.09278350515463918
+Berberian Sound Studio;Peter Strickland;2012;0;0.0;6.2;NR;Drama, Horror, Thriller;August;;312757.0;No;92;0.0;0.0
+Berlin Syndrome;Cate Shortland;2017;1;0.5;6.3;R;Drama, Horror, Mystery;May;;397783.0;No;116;6.3;0.008620689655172414
+Better Watch Out;Chris Peckover;2016;11;2.5;6.5;R;Comedy, Crime, Horror;October;;176288.0;No;89;71.5;0.12359550561797752
+Bird Box;Susanne Bier;2018;4;0.5;6.6;R;Drama, Horror, Sci-Fi;December;19800000.0;;Yes;124;26.4;0.03225806451612903
+Black Christmas;Bob Clark;1974;4;1.5;7.2;R;Horror, Mystery, Thriller;December;620000.0;4053000.0;No;98;28.8;0.04081632653061224
+Black Swan;Darren Aronofsky;2010;10;3.0;8.0;R;Drama, Thriller;December;13000000.0;329398046.0;No;108;80.0;0.09259259259259259
+Blade;Stephen Norrington;1998;1;1.0;7.1;R;Action, Horror, Sci-Fi;August;45000000.0;131183530.0;No;120;7.1;0.008333333333333333
+Blair Witch;Adam Wingard;2016;18;4.0;5.0;R;Horror, Mystery, Thriller;September;5000000.0;45173154.0;No;89;90.0;0.20224719101123595
+Bone Tomahawk;S. Craig Zahler;2015;0;0.0;7.1;NR;Drama, Horror, Western;February;1800000.0;382579.0;No;132;0.0;0.0
+Bram Stoker's Dracula;Francis Ford Coppola;1992;1;0.5;7.4;R;Horror;November;40000000.0;215862692.0;No;128;7.4;0.0078125
+Bride of Chucky;Ronny Yu;1998;11;2.0;5.4;R;Comedy, Horror;October;25000000.0;50688658.0;No;89;59.400000000000006;0.12359550561797752
+Cabin Fever;Eli Roth;2002;10;2.5;5.6;R;Horror;September;1500000.0;30553394.0;No;88;56.0;0.11363636363636363
+Cam;Daniel Goldhaber;2018;1;0.5;5.9;TV-MA;Horror, Mystery, Thriller;November;1000000.0;;Yes;94;5.9;0.010638297872340425
+Candyman;Bernard Rose;1992;16;4.0;6.6;R;Horror, Thriller;October;6000000.0;25792310.0;No;99;105.6;0.16161616161616163
+Cape Fear;Martin Scorsese;1991;4;1.5;7.3;R;Crime, Thriller;November;35000000.0;182291969.0;No;128;29.2;0.03125
+Cargo;Ben Howling, Yolanda Ramke;2017;2;0.5;6.3;TV-MA;Drama, Horror, Sci-Fi;May;;56385.0;Yes;93;12.6;0.021505376344086023
+Carrie;Brian De Palma;1976;1;0.5;7.4;R;Horror;November;1800000.0;33800000.0;No;98;7.4;0.01020408163265306
+Carrie;Kimberly Peirce;2013;4;1.0;5.9;R;Drama, Horror;October;30000000.0;84790678.0;No;100;23.6;0.04
+Case 39;Christian Alvart;2009;9;2.0;6.2;R;Horror, Mystery, Thriller;October;26000000.0;28189979.0;No;109;55.800000000000004;0.08256880733944955
+Cat People;Jacques Tourneur;1942;2;1.0;7.4;NR;Fantasy, Horror, Thriller;December;134000.0;8000000.0;No;73;14.8;0.0273972602739726
+Cell;Tod Williams;2016;5;2.0;4.3;R;Action, Drama, Horror;June;;1323012.0;No;98;21.5;0.05102040816326531
+Chernobyl Diaries;Bradley Parker;2012;16;3.5;5.0;R;Horror, Mystery, Thriller;May;1000000.0;37157648.0;Yes;86;80.0;0.18604651162790697
+Children of the Corn;Fritz Kiersch;1984;8;3.0;5.7;R;Horror, Thriller;March;800000.0;14568989.0;No;88;45.6;0.09090909090909091
+Child's Play;Tom Holland;1988;8;2.5;6.6;R;Horror, Thriller;November;9000000.0;44196684.0;No;87;52.8;0.09195402298850575
+Child’s Play;Lars Klevberg;2019;6;3.0;5.9;R;Horror;June;10000000.0;44902237.0;No;90;35.400000000000006;0.06666666666666667
+Cloverfield;Matt Reeves;2008;7;2.0;7.0;PG-13;Horror, Sci-Fi, Thriller;January;25000000.0;170764026.0;No;85;49.0;0.08235294117647059
+Clown;Jon Watts;2014;11;3.0;5.7;R;Drama, Fantasy, Horror;June;1500000.0;4381603.0;No;100;62.7;0.11
+Cooties;Jonathan Milott, Cary Murnion;2014;15;3.0;5.7;R;Action, Comedy, Horror;September;;485544.0;No;88;85.5;0.17045454545454544
+Creep;Patrick Brice;2014;10;3.0;6.3;R;Horror, Thriller;June;;;Yes;78;63.0;0.1282051282051282
+Creep 2;Patrick Brice;2017;6;2.0;6.4;NR;Horror, Thriller;October;;;Yes;80;38.400000000000006;0.075
+Crimson Peak;Guillermo del Toro;2015;9;2.5;6.5;R;Drama, Fantasy, Horror;October;55000000.0;74679822.0;No;119;58.5;0.07563025210084033
+Cube;Vincenzo Natali;1997;1;0.5;7.2;R;Drama, Mystery, Sci-Fi;July;365000.0;565727.0;No;90;7.2;0.011111111111111112
+Cujo;Lewis Teague;1983;4;1.0;6.1;R;Horror, Thriller;August;5000000.0;21156152.0;No;93;24.4;0.043010752688172046
+Cult of Chucky;Don Mancini;2017;14;3.5;5.2;R;Comedy, Fantasy, Horror;October;;;Yes;91;72.8;0.15384615384615385
+Cyberbully;Ben Chanan;2015;1;1.0;6.8;PG-13;Crime, Drama, Mystery;January;;;No;62;6.8;0.016129032258064516
+Dark Shadows;Tim Burton;2012;2;0.5;6.2;PG-13;Comedy, Fantasy, Horror;May;150000000.0;245527149.0;No;113;12.4;0.017699115044247787
+Dark Skies;Scott Stewart;2013;11;2.5;6.3;PG-13;Horror, Sci-Fi, Thriller;February;3500000.0;26421747.0;No;97;69.3;0.1134020618556701
+Dark Was The Night;Jack Heller;2014;16;3.0;5.6;NR;Drama, Horror, Thriller;July;;;No;99;89.6;0.16161616161616163
+Dark Water;Walter Salles;2005;7;2.0;5.6;PG-13;Drama, Horror, Fantasy;July;30000000.0;68357079.0;No;105;39.199999999999996;0.06666666666666667
+Dawn of the Dead;Zack Synder;2004;10;2.0;7.3;NR;Action, Horror;March;26000000.0;102278712.0;No;110;73.0;0.09090909090909091
+Day of the Dead;George A. Romero;1985;10;3.0;7.1;NR;Horror, Thriller;July;3500000.0;5000000.0;No;96;71.0;0.10416666666666667
+Dead Alive;Peter Jackson;1992;3;1.0;7.5;NR;Comedy, Horror;February;3000000.0;242623.0;No;97;22.5;0.030927835051546393
+Dead Calm;Phillip Noyce;1989;2;1.0;6.8;R;Horror, Thriller;April;10400000.0;7825009.0;No;96;13.6;0.020833333333333332
+Dead End;Jean-Baptiste Andrea, Fabrice Canepa;2003;9;2.5;6.6;R;Adventure, Horror, Mystery;November;;900000.0;No;85;59.4;0.10588235294117647
+Dead Silence;James Wan;2007;15;4.0;6.2;NR;Horror, Mystery, Thriller;March;20000000.0;22217407.0;No;92;93.0;0.16304347826086957
+Death Note;Adam Wingard;2017;6;1.5;4.6;TV-MA;Adventure, Crime, Drama;August;;;Yes;101;27.599999999999998;0.0594059405940594
+Deathgasm;Jason Lei Howden;2015;7;2.0;6.3;NR;Action, Comedy, Horror;October;;;No;86;44.1;0.08139534883720931
+Deep Blue Sea;Renny Harlin;1999;10;2.5;5.8;R;Action, Adventure, Sci-Fi;July;60000000.0;164648142.0;No;105;58.0;0.09523809523809523
+Deep Red;Dario Argento;1975;7;1.5;7.7;R;Horror, Mystery, Thriller;June;;;No;126;53.9;0.05555555555555555
+Deliver Us From Evil;Scott Derrickson;2014;16;4.0;6.2;R;Horror, Mystery, Thriller;July;30000000.0;87937815.0;No;118;99.2;0.13559322033898305
+Dementia;Mike Testin;2015;0;0.0;5.0;NR;Drama, Horror, Thriller;December;;;No;90;0.0;0.0
+Demonic;Will Canon;2015;17;4.0;5.3;R;Horror, Thriller;October;3000000.0;3387774.0;Yes;83;90.1;0.20481927710843373
+Devil;John Erick Dowdle;2010;4;1.5;6.2;PG-13;Horror, Mystery, Thriller;September;10000000.0;62695489.0;No;80;24.8;0.05
+Devil's Due;Matt Bettinelli-Olpin, Tyler Gillett;2014;13;3.0;4.1;R;Horror, Mystery, Thriller;January;7000000.0;36921560.0;No;89;53.3;0.14606741573033707
+Devil's Pass;Renny Harlin;2013;10;2.5;5.7;R;Horror, Mystery, Thriller;February;;5217347.0;No;100;57.0;0.1
+Dismissed;Benjamin Arfmann;2017;0;0.0;5.8;NR;Drama, Horror, Thriller;January;;;No;87;0.0;0.0
+Disturbia;D.J. Caruso;2007;13;3.0;6.8;PG-13;Crime, Drama, Mystery;April;20000000.0;117760134.0;No;105;88.39999999999999;0.12380952380952381
+Dog Soldiers;Neil Marshall;2002;13;3.0;6.8;R;Action, Horror, Thriller;May;2000000.0;3530620.0;No;105;88.39999999999999;0.12380952380952381
+Donnie Darko;Richard Kelly;2001;3;1.0;8.0;R;Drama, Sci-Fi, Thriller;January;6000000.0;4269636.0;No;133;24.0;0.022556390977443608
+Don't Be Afraid of the Dark;Troy Nixey;2010;8;3.0;5.5;R;Fantasy, Horror, Thriller;August;25000000.0;36993168.0;No;99;44.0;0.08080808080808081
+Don't Breathe;Fede Alvarez;2016;17;3.5;7.1;R;Crime, Horror, Thriller;August;9900000.0;157100845.0;No;88;120.69999999999999;0.19318181818181818
+Don't Knock Twice;Caradog W. James;2016;19;3.5;5.1;R;Horror;February;;2081591.0;No;93;96.89999999999999;0.20430107526881722
+Doom;Andrzej Bartkowiak;2005;15;3.5;5.2;R;Action, Adventure, Fantasy;October;60000000.0;55987321.0;Yes;113;78.0;0.13274336283185842
+Dracula Untold;Gary Shore;2014;4;1.0;6.3;PG-13;Action, Drama, Fantasy;October;70000000.0;217124280.0;No;92;25.2;0.043478260869565216
+Drag Me To Hell;Sam Raimi;2009;23;4.5;6.5;PG-13;Horror, Thriller;May;30000000.0;90842646.0;No;99;149.5;0.23232323232323232
+Dreamcatcher;Lawrence Kasdan;2003;11;3.0;5.5;R;Drama, Horror, Sci-Fi;March;68000000.0;81240406.0;No;136;60.5;0.08088235294117647
+Eden Lake;James Watkins;2008;3;1.0;6.8;R;Horror, Thriller;September;;3984669.0;No;91;20.4;0.03296703296703297
+Eli;Ciarán Foy;2019;13;3.5;5.9;R;Horror;October;;;Yes;98;76.7;0.1326530612244898
+Elle;Paul Verhoeven;2016;7;2.0;7.1;R;Crime, Drama, Thriller;November;9000000.0;12748594.0;No;130;49.699999999999996;0.05384615384615385
+Emelie;Michael Thelin;2015;3;0.5;5.4;NR;Horror, Thriller;March;;6147.0;Yes;82;16.200000000000003;0.036585365853658534
+Escape Room;Adam Robitel;2019;4;1.5;6.3;PG-13;Action, Adventure, Horror;January;9000000.0;155712077.0;No;103;25.2;0.038834951456310676
+Europa Report;Sebastián Cordero;2013;1;0.5;6.4;PG-13;Drama, Mystery, Sci-Fi;June;;125687.0;No;90;6.4;0.011111111111111112
+Event Horizon;Paul W.S. Anderson;1997;11;3.0;6.7;R;Horror, Sci-Fi, Thriller;August;60000000.0;26673242.0;No;130;73.7;0.08461538461538462
+Evil Dead;Fede Alvarez;2013;20;4.0;6.5;R;Fantasy, Horror, Thriller;April;17000000.0;97542952.0;No;96;130.0;0.20833333333333334
+Evil Dead II;Sam Raimi;1987;27;4.0;7.8;R;Comedy, Horror;March;3600000.0;5923044.0;No;84;210.6;0.32142857142857145
+Exorcist: The Beginning;Renny Harlin;2004;17;4.0;5.1;R;Horror, Mystery, Thriller;August;80000000.0;76899937.0;No;125;86.69999999999999;0.136
+Extinction;Miguel Ángel Vivas;2015;12;3.0;5.8;R;Drama, Horror, Sci-Fi;July;7000000.0;2350695.0;No;113;69.6;0.10619469026548672
+Extraterrestrial;Colin Minihan;2014;30;4.5;5.0;NR;Horror, Mystery, Sci-Fi;October;3000000.0;71103.0;No;101;150.0;0.297029702970297
+Fear Clinic;Robert Hall;2014;13;3.0;5.0;R;Horror;July;1000000.0;106974.0;No;95;65.0;0.1368421052631579
+Final Destination;James Wong;2000;4;2.0;6.7;R;Horror, Thriller;March;23000000.0;112880294.0;Yes;98;26.8;0.04081632653061224
+Final Destination 2;David R. Ellis;2003;3;1.0;6.2;R;Horror, Thriller;January;26000000.0;90342474.0;Yes;90;18.6;0.03333333333333333
+Final Destination 3;James Wong;2006;5;1.0;5.8;R;Horror, Thriller;February;25000000.0;117719158.0;Yes;86;29.0;0.05813953488372093
+Final Destination 5;Steven Quale;2011;5;1.5;5.8;R;Horror, Thriller;August;40000000.0;157887643.0;No;92;29.0;0.05434782608695652
+Flatliners;Joel Schumacher;1990;7;2.0;6.6;R;Drama, Horror, Sci-Fi;August;26000000.0;61489265.0;Yes;115;46.199999999999996;0.06086956521739131
+Flatliners;Niels Arden Oplev;2017;20;4.0;5.0;PG-13;Drama, Horror, Mystery;September;19000000.0;45158254.0;No;109;100.0;0.1834862385321101
+Frailty;Bill Paxton;2001;0;0.0;7.2;R;Crime, Drama, Thriller;April;11000000.0;17423030.0;No;100;0.0;0.0
+Freddy vs. Jason;Ronny Yu;2003;24;4.0;5.7;R;Action, Horror;August;30000000.0;114908830.0;No;97;136.8;0.24742268041237114
+Friday the 13th;Sean S. Cunningham;1980;10;3.0;6.5;R;Horror, Mystery, Thriller;May;550000.0;39754601.0;No;95;65.0;0.10526315789473684
+Friday the 13th;Marcus Nispel;2009;23;4.0;5.6;R;Horror, Mystery, Thriller;February;19000000.0;91379051.0;No;97;128.79999999999998;0.23711340206185566
+Friend Request;Simon Verhoeven;2016;21;4.0;5.3;R;Horror, Mystery, Thriller;September;9900000.0;10975390.0;Yes;92;111.3;0.22826086956521738
+Fright Night;Craig Gillespie;2011;10;3.0;6.3;R;Comedy, Horror;August;30000000.0;41002607.0;No;106;63.0;0.09433962264150944
+Funny Games;Michael Haneke;1997;1;0.5;7.6;NR;Crime, Drama, Thriller;March;;;No;108;7.6;0.009259259259259259
+Funny Games;Michael Haneke;2007;1;0.5;6.5;R;Crime, Drama, Thriller;April;15000000.0;7938872.0;No;111;6.5;0.009009009009009009
+Gerald's Game;Mike Flanagan;2017;3;0.5;6.6;TV-MA;Drama, Horror, Thriller;September;;;Yes;103;19.799999999999997;0.02912621359223301
+Get Out;Jordan Peele;2017;10;2.5;7.7;R;Horror, Mystery, Thriller;February;4500000.0;255413717.0;No;104;77.0;0.09615384615384616
+Ghost Ship;Steve Beck;2002;12;3.0;5.5;R;Horror;October;20000000.0;68349884.0;Yes;91;66.0;0.13186813186813187
+Ghost Stories;Jeremy Dyson, Andy Nyman;2017;20;4.0;6.4;NR;Drama, Horror;April;;4131358.0;No;98;128.0;0.20408163265306123
+Ghostland;Pascal Laugier;2018;21;4.0;6.4;NR;Drama, Horror, Mystery;June;;5643957.0;No;91;134.4;0.23076923076923078
+Goodnight Mommy;Severin Fiala, Veronika Franz;2014;1;0.5;6.7;R;Horror, Mystery, Thriller;September;;2193474.0;No;100;6.7;0.01
+Goosebumps;Rob Letterman;2015;10;2.5;6.3;PG;Adventure, Comedy, Family;October;58000000.0;158260952.0;No;103;63.0;0.0970873786407767
+Gothika;Mathieu Kassovitz;2003;16;3.5;5.8;R;Horror, Mystery, Thriller;November;40000000.0;141591324.0;Yes;98;92.8;0.16326530612244897
+Grave Encounters;Colin Minihan, Stuart Ortiz;2011;12;4.0;6.1;NR;Horror;September;100000.0;1658053.0;No;92;73.19999999999999;0.13043478260869565
+Green Room;Jeremy Saulnier;2015;1;0.5;7.0;R;Horror, Music, Thriller;May;5000000.0;3769214.0;Yes;95;7.0;0.010526315789473684
+Gremlins;Joe Dante;1984;17;3.5;7.3;PG;Comedy, Fantasy, Horror;June;11000000.0;153120458.0;No;106;124.1;0.16037735849056603
+Halloween;John Carpenter;1978;13;2.5;7.8;R;Horror, Thriller;October;325000.0;47000000.0;No;91;101.39999999999999;0.14285714285714285
+Halloween;Rob Zombie;2007;9;3.0;6.1;NR;Horror;August;15000000.0;80253908.0;No;121;54.9;0.0743801652892562
+Halloween;David Gordon Green;2018;14;3.5;7.8;R;Horror, Thriller;October;10000000.0;255485178.0;No;106;109.2;0.1320754716981132
+Halloween H20: 20 Years Later;Steve Miner;1998;16;3.5;5.7;R;Horror, Thriller;August;17000000.0;55041738.0;No;86;91.2;0.18604651162790697
+Halloween II;Rick Rosenthal;1981;8;2.0;6.5;R;Horror;October;2500000.0;25533818.0;No;92;52.0;0.08695652173913043
+Halloween II;Rob Zombie;2009;16;3.0;4.9;NR;Horror;August;15000000.0;39421467.0;No;119;78.4;0.13445378151260504
+Hannibal;Ridley Scott;2001;2;0.5;6.8;R;Crime, Drama, Thriller;February;87000000.0;351692268.0;No;132;13.6;0.015151515151515152
+Hannibal Rising;Peter Webber;2007;0;0.0;6.2;R;Adventure, Crime, Drama;February;50000000.0;82169884.0;No;121;0.0;0.0
+Happy Death Day 2U;Christopher Landon;2019;7;2.0;6.2;PG-13;Comedy, Horror, Mystery;February;9000000.0;64503067.0;No;100;43.4;0.07
+Happy Death Day;Christopher Landon;2017;8;2.5;6.5;PG-13;Horror, Mystery, Thriller;October;4800000.0;125479266.0;No;96;52.0;0.08333333333333333
+Hellboy;Guillermo del Toro;2004;6;1.5;6.8;PG-13;Action, Adventure, Fantasy;April;66000000.0;99378985.0;No;132;40.8;0.045454545454545456
+Hellraiser;Clive Barker;1987;5;2.0;7.0;R;Horror, Thriller;September;1000000.0;14575193.0;No;86;35.0;0.05813953488372093
+Here Alone;Rod Blackhurst;2016;2;0.5;5.6;NR;Drama, Horror, Sci-Fi;May;;25043.0;Yes;98;11.2;0.02040816326530612
+Hereditary;Ari Aster;2018;8;2.0;7.3;R;Drama, Horror, Mystery;June;10000000.0;79336821.0;No;127;58.4;0.06299212598425197
+Hidden;Matt Duffer, Ross Duffer;2015;4;1.5;6.4;R;Horror, Thriller;September;;;No;84;25.6;0.047619047619047616
+Hide and Seek;John Polson;2005;16;3.5;6.0;R;Drama, Horror, Mystery;January;30000000.0;126809881.0;No;101;96.0;0.15841584158415842
+High Tension;Alexandre Aja;2003;8;2.5;6.8;R;Horror;June;2200000.0;6291958.0;No;89;54.4;0.0898876404494382
+Holidays;Various Directors;2016;5;2.0;5.1;NR;Fantasy, Horror, Mystery;April;;55621.0;Yes;105;25.5;0.047619047619047616
+Hollow Man;Paul Verhoeven;2000;9;2.5;5.8;R;Action, Horror, Sci-Fi;August;95000000.0;190213455.0;No;119;52.199999999999996;0.07563025210084033
+Honeymoon;Leigh Janiak;2014;3;0.5;5.7;R;Horror, Mystery, Thriller;September;1000000.0;24343.0;No;87;17.1;0.034482758620689655
+Horns;Alexandre Aja;2013;3;0.5;6.5;R;Crime, Drama, Fantasy;October;;3875442.0;No;120;19.5;0.025
+Hostel;Eli Roth;2005;2;0.5;5.9;R;Horror;January;4800000.0;80578934.0;No;93;11.8;0.021505376344086023
+Hounds of Love;Ben Young;2016;0;0.0;6.5;NR;Crime, Drama, Thriller;May;;234419.0;No;108;0.0;0.0
+Hour of the Wolf;Ingmar Bergman;1968;1;0.5;7.7;NR;Drama, Horror;April;;;No;90;7.7;0.011111111111111112
+House;Steve Miner;1986;11;3.0;6.2;R;Comedy, Fantasy, Horror;February;3000000.0;19444631.0;No;93;68.2;0.11827956989247312
+House of 1000 Corpses;Rob Zombie;2003;6;2.5;6.1;R;Horror;April;7000000.0;16829545.0;No;105;36.599999999999994;0.05714285714285714
+House of Wax;Jaume Collet-Serra;2005;16;4.0;5.3;R;Horror;May;40000000.0;68766121.0;No;108;84.8;0.14814814814814814
+House on Haunted Hill;William Malone;1999;14;3.0;5.6;R;Horror, Mystery, Thriller;October;37000000.0;42593455.0;No;93;78.39999999999999;0.15053763440860216
+Hush;Mike Flanagan;2016;7;2.5;6.6;R;Horror, Thriller;April;1000000.0;;Yes;87;46.199999999999996;0.08045977011494253
+I Am Legend;Francis Lawrence;2007;9;2.5;7.2;PG-13;Drama, Sci-Fi, Thriller;December;150000000.0;585349010.0;No;104;64.8;0.08653846153846154
+I Am Not a Serial Killer;Billy O’Brien;2016;3;1.0;6.2;NR;Drama, Horror, Thriller;August;1254470.0;21148.0;No;104;18.6;0.028846153846153848
+I Am the Pretty Thing That Lives in the House;Oz Perkins;2016;4;0.5;4.5;NR;Horror, Mystery, Thriller;October;;;Yes;87;18.0;0.04597701149425287
+I Know What You Did Last Summer;Jim Gillespie;1997;13;3.5;5.7;R;Horror, Mystery;October;17000000.0;125586134.0;Yes;99;74.10000000000001;0.13131313131313133
+Identity;James Mangold;2003;11;2.5;7.3;R;Mystery, Thriller;April;28000000.0;90259536.0;No;91;80.3;0.12087912087912088
+Idle Hands;Rodman Flender;1999;10;3.0;6.2;R;Comedy, Fantasy, Horror;April;25000000.0;4152230.0;No;92;62.0;0.10869565217391304
+In The Mouth Of Madness;John Carpenter;1994;10;3.0;7.2;R;Drama, Horror, Mystery;February;8000000.0;8924549.0;No;95;72.0;0.10526315789473684
+In the Tall Grass;Vincenzo Natali;2019;4;1.0;5.7;TV-MA;Drama, Horror, Thriller;October;;;Yes;90;22.8;0.044444444444444446
+Incarnate;Brad Peyton;2016;9;2.5;5.2;PG-13;Horror, Thriller;December;5000000.0;6341855.0;No;91;46.800000000000004;0.0989010989010989
+Inland Empire;David Lynch;2006;8;2.5;6.9;R;Drama, Mystery, Thriller;February;;4044781.0;No;180;55.2;0.044444444444444446
+Inside;Alexandre Bustillo, Julien Maury;2007;4;1.0;6.8;NC-17;Horror;June;3000000.0;792184.0;No;82;27.2;0.04878048780487805
+Insidious;James Wan;2010;24;5.0;6.8;PG-13;Horror, Mystery, Thriller;April;1500000.0;97009150.0;No;103;163.2;0.23300970873786409
+Insidious: Chapter 2;James Wan;2013;22;4.0;6.6;PG-13;Horror, Mystery, Thriller;September;5000000.0;161919318.0;No;106;145.2;0.20754716981132076
+Insidious: Chapter 3;Leigh Whannell;2015;15;4.0;6.1;PG-13;Horror, Mystery, Thriller;June;10000000.0;112983889.0;No;97;91.5;0.15463917525773196
+Insidious: The Last Key;Adam Robitel;2018;15;4.0;5.7;PG-13;Horror, Mystery, Thriller;January;10000000.0;167885588.0;No;103;85.5;0.14563106796116504
+Interview With the Vampire;Neil Jordan;1994;6;2.0;7.6;R;Drama, Horror;November;60000000.0;223664608.0;No;123;45.599999999999994;0.04878048780487805
+Intruders;Adam Schindler;2015;4;1.0;5.4;R;Drama, Horror, Thriller;January;;;No;86;21.6;0.046511627906976744
+Invasion of the Body Snatchers;Philip Kaufman;1978;4;1.0;7.4;PG;Horror, Sci-Fi;December;3500000.0;24946533.0;No;115;29.6;0.034782608695652174
+It;Andy Muschietti;2017;23;4.0;7.4;R;Horror;September;35000000.0;700449318.0;No;135;170.20000000000002;0.17037037037037037
+It Chapter Two;Andy Muschietti;2019;24;4.0;7.0;R;Drama, Fantasy, Horror;September;79000000.0;459245680.0;No;169;168.0;0.14201183431952663
+It Comes at Night;Trey Edward Shults;2017;5;1.5;6.2;R;Horror, Mystery;June;5000000.0;19280931.0;No;91;31.0;0.054945054945054944
+It Follows;David Robert Mitchell;2014;5;2.0;6.8;R;Horror, Mystery, Thriller;March;1000000.0;21528593.0;No;100;34.0;0.05
+Jacob's Ladder;Adrian Lyne;1990;4;1.0;7.5;R;Drama, Horror, Mystery;November;25000000.0;26118851.0;No;113;30.0;0.035398230088495575
+Jaws;Steven Spielberg;1975;4;2.5;8.0;PG;Adventure, Drama, Thriller;June;7000000.0;471203004.0;No;130;32.0;0.03076923076923077
+Jeepers Creepers;Victor Salva;2001;11;3.5;6.2;R;Horror, Mystery;August;10000000.0;59371303.0;No;90;68.2;0.12222222222222222
+Jennifer's Body;Karyn Kusama;2009;6;2.0;5.2;R;Comedy, Horror;September;16000000.0;31556061.0;No;107;31.200000000000003;0.056074766355140186
+Jessabelle;Kevin Greutert;2014;9;2.0;5.4;PG-13;Horror, Thriller;November;;6998359.0;No;90;48.6;0.1
+Jigsaw;Michael Spierig, Peter Spierig;2017;7;2.0;5.8;R;Horror, Mystery, Thriller;October;10000000.0;102952888.0;No;91;40.6;0.07692307692307693
+Joy Ride;John Dahl;2001;2;0.5;6.6;R;Mystery, Thriller;October;23000000.0;36642838.0;No;97;13.2;0.020618556701030927
+Julia's Eyes;Guillem Morales;2010;7;2.0;6.7;NR;Horror, Mystery, Thriller;October;5000000.0;12884923.0;No;117;46.9;0.05982905982905983
+Jurassic Park;Steven Spielberg;1993;9;2.5;8.1;PG-13;Action, Adventure, Sci-Fi;June;63000000.0;1030314141.0;No;127;72.89999999999999;0.07086614173228346
+Jurassic World;Colin Trevorrow;2015;5;2.0;7.0;PG-13;Action, Adventure, Sci-Fi;June;150000000.0;1670400637.0;No;124;35.0;0.04032258064516129
+Jurassic World: Fallen Kingdom;J.A. Bayona;2018;7;2.0;6.2;PG-13;Action, Adventure, Sci-Fi;June;170000000.0;1308467944.0;No;128;43.4;0.0546875
+Kill List;Ben Wheatley;2011;1;0.5;6.4;NR;Crime, Drama, Horror;September;500000.0;171760.0;No;95;6.4;0.010526315789473684
+Knock Knock;Eli Roth;2015;2;0.5;4.9;R;Drama, Thriller;October;2500000.0;5567103.0;No;99;9.8;0.020202020202020204
+Krampus;Michael Dougherty;2015;10;2.0;6.1;PG-13;Comedy, Drama, Fantasy;December;15000000.0;61548707.0;No;98;61.0;0.10204081632653061
+Lake Mungo;Joel Anderson;2008;1;0.5;6.2;R;Drama, Horror, Mystery;January;1400000.0;8128.0;No;87;6.2;0.011494252873563218
+Lake Placid;Steve Miner;1999;11;2.5;5.7;R;Action, Comedy, Horror;July;35000000.0;56870414.0;No;82;62.7;0.13414634146341464
+Last Shift;Anthony DiBlasi;2014;17;4.0;5.8;R;Horror, Mystery, Thriller;October;;;No;88;98.6;0.19318181818181818
+Leatherface;Alexandre Bustillo, Julien Maury;2017;13;3.0;5.0;R;Crime, Horror, Thriller;October;;1476843.0;No;90;65.0;0.14444444444444443
+Let Me In;Matt Reeves;2010;3;0.5;7.1;R;Drama, Fantasy, Horror;October;20000000.0;24145613.0;No;116;21.299999999999997;0.02586206896551724
+Let The Right One In;Tomas Alfredson;2008;2;0.5;7.9;R;Drama, Horror, Romance;December;4000000.0;11227336.0;No;115;15.8;0.017391304347826087
+Let Us Prey;Brian O’Malley;2014;7;3.0;5.7;NR;Horror, Thriller;June;;;No;92;39.9;0.07608695652173914
+Life;Daniel Espinosa;2017;8;2.0;6.6;R;Horror, Sci-Fi, Thriller;March;58000000.0;100541806.0;No;104;52.8;0.07692307692307693
+Lights Out;David F. Sandberg;2016;19;4.5;6.3;PG-13;Drama, Horror, Mystery;July;4900000.0;148868835.0;No;81;119.7;0.2345679012345679
+Little Evil;Eli Craig;2017;7;1.5;5.7;TV-MA;Comedy, Horror;September;;;Yes;95;39.9;0.07368421052631578
+Ma;Tate Taylor;2019;3;1.0;5.7;R;Horror, Thriller;May;5000000.0;60582764.0;No;99;17.1;0.030303030303030304
+Maggie;Henry Hobson;2015;4;0.5;5.6;PG-13;Drama, Horror;May;;1663165.0;No;95;22.4;0.042105263157894736
+Malevolent;Olaf de Fleur Johannesson;2018;8;3.0;4.7;TV-MA;Horror;October;;;Yes;89;37.6;0.0898876404494382
+Malice;Harold Becker;1993;3;1.0;6.4;R;Crime, Mystery, Thriller;October;20000000.0;46405336.0;No;107;19.200000000000003;0.028037383177570093
+Mama;Andrés Muschietti;2013;13;3.5;6.2;PG-13;Horror, Thriller;January;15000000.0;146428180.0;No;100;80.60000000000001;0.13
+Mandy;Panos Cosmatos;2018;5;1.5;6.6;R;Action, Fantasy, Horror;September;6000000.0;1524880.0;No;121;33.0;0.04132231404958678
+Marrowbone;Sergio G. Sánchez;2017;5;2.5;6.6;R;Drama, Horror, Mystery;April;8000000.0;12294931.0;No;110;33.0;0.045454545454545456
+Martyrs;Pascal Laugier;2008;15;3.0;7.1;R;Horror;September;6500000.0;1149138.0;No;99;106.5;0.15151515151515152
+May;Lucky McKee;2002;0;0.0;6.6;R;Drama, Horror;April;500000.0;264349.0;No;93;0.0;0.0
+Mayhem;Joe Lynch;2017;2;0.5;6.3;NR;Action, Comedy, Horror;November;;;No;86;12.6;0.023255813953488372
+Megan Is Missing;Michael Goi;2011;1;0.5;4.7;NR;Drama, Horror, Thriller;May;;;No;85;4.7;0.011764705882352941
+Midsommar;Ari Aster;2019;3;1.0;7.4;R;Drama, Horror, Mystery;July;10000000.0;41123770.0;No;147;22.200000000000003;0.02040816326530612
+Mirrors;Alexandre Aja;2008;15;4.0;6.1;R;Horror, Mystery;August;35000000.0;77488607.0;No;110;91.5;0.13636363636363635
+Misery;Rob Reiner;1990;3;0.5;7.8;R;Drama, Thriller;November;20000000.0;61276872.0;No;107;23.4;0.028037383177570093
+Mom and Dad;Brian Taylor;2017;5;1.5;5.5;R;Comedy, Horror, Thriller;March;7000000.0;165962.0;No;83;27.5;0.060240963855421686
+Morgan;Luke Scott;2016;3;0.5;5.8;R;Action, Horror, Sci-Fi;September;8000000.0;8809407.0;No;92;17.4;0.03260869565217391
+Mother!;Darren Aronofsky;2017;7;2.0;6.6;R;Drama, Horror, Mystery;September;30000000.0;44516999.0;No;121;46.199999999999996;0.05785123966942149
+Mulholland Drive;David Lynch;2001;1;1.0;7.9;R;Drama, Mystery, Thriller;October;15000000.0;20129557.0;No;147;7.9;0.006802721088435374
+My Bloody Valentine;George Mihalka;1981;11;2.5;6.2;R;Horror, Mystery, Thriller;February;2300000.0;5672031.0;No;93;68.2;0.11827956989247312
+My Friend Dahmer;Marc Meyers;2017;0;0.0;6.2;R;Biography, Drama;March;;1436751.0;No;107;0.0;0.0
+Nerve;Henry Joost, Ariel Schulman;2016;1;0.5;6.5;PG-13;Adventure, Crime, Drama;July;19000000.0;85251425.0;No;96;6.5;0.010416666666666666
+Nocturnal Animals;Tom Ford;2016;1;1.0;7.5;R;Drama, Thriller;December;22500000.0;30311857.0;No;116;7.5;0.008620689655172414
+Noroi: The Curse;Kôji Shiraishi;2005;4;1.0;7.0;NR;Horror, Mystery, Thriller;August;2000000.0;6819.0;No;115;28.0;0.034782608695652174
+Oculus;Mike Flanagan;2013;14;3.5;6.5;R;Horror, Mystery;April;5000000.0;44043910.0;No;104;91.0;0.1346153846153846
+Odd Thomas;Stephen Sommers;2013;10;3.0;6.8;PG-13;Comedy, Fantasy, Horror;February;27000000.0;1149267.0;No;97;68.0;0.10309278350515463
+One Hour Photo;Mark Romanek;2002;1;0.5;6.8;R;Drama, Thriller;September;12000000.0;52223306.0;No;96;6.8;0.010416666666666666
+One Missed Call;Eric Valette;2008;15;3.5;4.0;PG-13;Horror, Mystery;January;20000000.0;45847751.0;No;87;60.0;0.1724137931034483
+Only Lovers Left Alive;Jim Jarmusch;2013;0;0.0;7.3;R;Comedy, Drama, Fantasy;December;7000000.0;7609187.0;No;123;0.0;0.0
+Orphan;Jaume Collet-Serra;2009;12;3.0;6.9;R;Horror, Mystery, Thriller;July;20000000.0;76699632.0;No;123;82.80000000000001;0.0975609756097561
+Ouija;Stiles White;2014;16;4.0;4.5;PG-13;Horror, Mystery, Thriller;October;5000000.0;103687316.0;No;89;72.0;0.1797752808988764
+Ouija: Origin of Evil;Mike Flanagan;2016;18;4.0;6.1;PG-13;Drama, Horror, Mystery;October;9000000.0;81705746.0;No;99;109.8;0.18181818181818182
+Overlord;Julius Avery;2018;12;2.5;6.7;R;Action, Adventure, Horror;November;38000000.0;41657844.0;No;110;80.4;0.10909090909090909
+P2;Franck Khalfoun;2007;16;4.0;5.9;R;Crime, Horror, Thriller;November;8000000.0;7766240.0;No;98;94.4;0.16326530612244897
+Pandorum;Christian Alvart;2009;13;4.0;6.7;R;Action, Horror, Mystery;September;33000000.0;20645327.0;Yes;108;87.10000000000001;0.12037037037037036
+Pan's Labyrinth;Guillermo del Toro;2006;6;1.5;8.2;R;Drama, Fantasy, War;January;19000000.0;83258226.0;No;119;49.199999999999996;0.05042016806722689
+Paranormal Activity;Oren Peli;2007;10;3.5;6.3;R;Horror, Mystery, Thriller;October;15000.0;193355800.0;No;86;63.0;0.11627906976744186
+Paranormal Activity 2;Tod Williams;2010;14;3.5;5.6;NR;Horror;October;3000000.0;177512032.0;No;98;78.39999999999999;0.14285714285714285
+Paranormal Activity 3;Henry Joost, Ariel Schulman;2011;20;4.0;5.8;NR;Horror, Mystery, Thriller;October;5000000.0;207039844.0;No;94;116.0;0.2127659574468085
+Paranormal Activity 4;Henry Joost, Ariel Schulman;2012;21;4.0;4.6;NR;Horror, Mystery, Thriller;October;5000000.0;142802657.0;No;96;96.6;0.21875
+Paranormal Activity: The Ghost Dimension;Gregory Plotkin;2015;29;4.0;4.6;NR;Horror, Mystery, Thriller;October;10000000.0;78903124.0;No;97;133.39999999999998;0.29896907216494845
+Patient Zero;Stefan Ruzowitzky;2018;6;1.5;4.4;R;Action, Drama, Horror;August;;;No;93;26.400000000000002;0.06451612903225806
+Pay The Ghost;Uli Edel;2015;13;3.0;5.2;NR;Drama, Horror, Mystery;September;;2914020.0;No;94;67.60000000000001;0.13829787234042554
+Personal Shopper;Olivier Assayas;2016;4;0.5;6.1;R;Drama, Horror, Mystery;March;6000000.0;2840408.0;No;105;24.4;0.0380952380952381
+Pet;Carles Torrens;2016;2;1.0;5.7;R;Horror, Thriller;December;;22003.0;No;94;11.4;0.02127659574468085
+Pet Sematary;Mary Lambert;1989;13;3.5;6.6;R;Horror, Thriller;April;11500000.0;57469467.0;No;103;85.8;0.1262135922330097
+Pet Sematary;Kevin Kölsch, Dennis Widmyer;2019;14;3.5;6.6;R;Horror, Mystery, Thriller;April;21000000.0;112399944.0;No;101;92.39999999999999;0.13861386138613863
+Planet Terror;Robert Rodriguez;2007;14;2.5;7.1;NR;Action, Comedy, Horror;June;;10872186.0;No;105;99.39999999999999;0.13333333333333333
+Poltergeist;Tobe Hooper;1982;9;1.0;7.3;PG;Horror, Thriller;June;10700000.0;121700000.0;Yes;114;65.7;0.07894736842105263
+Poltergeist;Gil Kenan;2015;21;4.0;5.0;PG-13;Horror, Thriller;May;35000000.0;95437994.0;No;93;105.0;0.22580645161290322
+Pontypool;Bruce McDonald;2008;1;0.5;6.6;NR;Fantasy, Horror, Thriller;September;1500000.0;32118.0;No;96;6.6;0.010416666666666666
+Predator;John McTiernan;1987;7;2.0;7.8;R;Action, Adventure, Sci-Fi;June;15000000.0;98399056.0;No;107;54.6;0.06542056074766354
+Prevenge;Alice Lowe;2016;0;0.5;5.9;TV-MA;Comedy, Drama, Fantasy;March;80000.0;103885.0;No;88;0.0;0.0
+Pride and Prejudice and Zombies;Burr Steers;2016;7;2.0;5.8;PG-13;Action, Comedy, Fantasy;February;28000000.0;16405171.0;No;108;40.6;0.06481481481481481
+Prince of Darkness;John Carpenter;1987;7;2.5;6.7;R;Horror;October;3000000.0;14182492.0;No;102;46.9;0.06862745098039216
+Prometheus;Ridley Scott;2012;7;1.5;7.0;R;Adventure, Mystery, Sci-Fi;June;130000000.0;403354469.0;No;124;49.0;0.056451612903225805
+Psycho;Alfred Hitchcock;1960;2;0.5;8.5;R;Horror, Mystery, Thriller;September;806947.0;32000000.0;No;109;17.0;0.01834862385321101
+Quarantine;John Erick Dowdle;2008;14;3.5;6.0;R;Horror, Thriller;October;12000000.0;41319906.0;No;89;84.0;0.15730337078651685
+Ravenous;Antonia Bird;1999;4;1.0;7.0;R;Adventure, Comedy, Horror;March;12000000.0;2062405.0;No;101;28.0;0.039603960396039604
+Raw;Julia Ducournau;2016;3;1.0;7.0;R;Drama, Horror;March;3500000.0;3096815.0;Yes;99;21.0;0.030303030303030304
+Re-Animator;Stuart Gordon;1985;4;1.0;7.2;NR;Comedy, Horror, Sci-Fi;October;900000.0;2023414.0;No;104;28.8;0.038461538461538464
+[Rec];Jaume Balagueró, Paco Plaza;2007;11;3.5;7.4;R;Action, Horror, Mystery;November;1500000.0;32492948.0;No;79;81.4;0.13924050632911392
+Red Dragon;Brett Ratner;2002;6;2.0;7.2;R;Crime, Drama, Thriller;October;78000000.0;209196298.0;No;124;43.2;0.04838709677419355
+Regression;Alejandro Amenábar;2015;3;1.0;5.7;R;Crime, Horror, Mystery;October;15000000.0;17671101.0;No;106;17.1;0.02830188679245283
+Repulsion;Roman Polanski;1965;7;2.5;7.7;NR;Drama, Horror, Thriller;October;300000.0;33174.0;No;105;53.9;0.06666666666666667
+Resident Evil;Paul W.S. Anderson;2002;7;2.5;6.7;R;Action, Horror, Sci-Fi;March;33000000.0;102984862.0;No;100;46.9;0.07
+Resident Evil: The Final Chapter;Paul W.S. Anderson;2016;29;4.5;5.5;R;Action, Horror, Sci-Fi;January;40000000.0;312242626.0;No;107;159.5;0.27102803738317754
+Resolution;Justin Benson, Aaron Moorhead;2012;2;0.5;6.3;NR;Horror, Mystery, Thriller;January;;;No;93;12.6;0.021505376344086023
+Restoration;Zack Ward;2016;10;3.0;4.0;NR;Horror;May;;;No;92;40.0;0.10869565217391304
+Ring (Ringu);Hideo Nakata;1998;5;2.0;7.3;NR;Horror, Mystery;January;1200000.0;59001.0;No;96;36.5;0.052083333333333336
+Rings;F. Javier Gutiérrez;2017;19;3.5;4.5;PG-13;Drama, Horror, Mystery;February;25000000.0;83080890.0;No;102;85.5;0.18627450980392157
+Rosemary's Baby;Roman Polanski;1968;0;0.0;8.0;R;Drama, Horror;October;3200000.0;33400000.0;No;136;0.0;0.0
+Saw;James Wan;2004;5;2.0;7.6;NR;Horror, Mystery, Thriller;October;1200000.0;103911669.0;No;103;38.0;0.04854368932038835
+Saw II;Darren Lynn Bousman;2005;5;1.0;6.6;NR;Horror, Mystery;October;4000000.0;147748505.0;No;94;33.0;0.05319148936170213
+Saw III;Darren Lynn Bousman;2006;5;1.5;6.2;NR;Horror, Mystery, Thriller;October;10000000.0;164874275.0;No;113;31.0;0.04424778761061947
+Saw IV;Darren Lynn Bousman;2007;6;1.5;5.9;NR;Horror, Mystery, Thriller;October;10000000.0;139352633.0;No;96;35.400000000000006;0.0625
+Saw V;David Hackl;2008;5;1.0;5.8;NR;Horror, Mystery, Thriller;October;10800000.0;113864059.0;No;95;29.0;0.05263157894736842
+Saw VI;Kevin Greutert;2009;2;0.5;6.0;NR;Horror, Mystery, Thriller;October;11000000.0;68233629.0;No;92;12.0;0.021739130434782608
+Scary Movie;Keenen Ivory Wayans;2000;8;1.5;6.2;R;Comedy;July;19000000.0;278019771.0;No;88;49.6;0.09090909090909091
+Scary Movie 2;Keenen Ivory Wayans;2001;8;1.5;5.3;R;Comedy;July;45000000.0;141220678.0;Yes;83;42.4;0.0963855421686747
+Scream;Wes Craven;1996;19;3.5;7.2;R;Horror, Mystery;December;14000000.0;173046663.0;No;111;136.8;0.17117117117117117
+Scream 2;Wes Craven;1997;19;4.0;6.2;R;Horror, Mystery;December;24000000.0;172363301.0;No;120;117.8;0.15833333333333333
+Scream 3;Wes Craven;2000;23;4.0;5.5;R;Horror, Mystery;February;40000000.0;161834276.0;No;116;126.5;0.19827586206896552
+Scream 4;Wes Craven;2011;18;3.5;6.1;R;Horror, Mystery;April;40000000.0;97231420.0;Yes;111;109.8;0.16216216216216217
+Searching;Aneesh Chaganty;2018;0;0.0;7.7;PG-13;Drama, Mystery, Thriller;August;880000.0;75462037.0;No;102;0.0;0.0
+Secret Window;David Koepp;2004;10;2.0;6.6;PG-13;Drama, Mystery, Thriller;March;40000000.0;92913171.0;No;96;66.0;0.10416666666666667
+Session 9;Brad Anderson;2001;0;0.0;6.4;R;Horror, Mystery;September;1500000.0;1612259.0;No;97;0.0;0.0
+Seven;David Fincher;1995;1;0.5;8.6;R;Crime, Drama, Mystery;September;33000000.0;327311859.0;No;127;8.6;0.007874015748031496
+Shaun of the Dead;Edgar Wright;2004;13;2.5;7.9;R;Comedy, Horror;September;4000000.0;30039392.0;No;99;102.7;0.13131313131313133
+Shutter;Banjong Pisanthanakun, Parkpoom Wongpoom;2004;11;4.0;7.1;NR;Horror, Mystery, Thriller;September;;6989456.0;Yes;97;78.1;0.1134020618556701
+Shutter Island;Martin Scorsese;2010;9;2.0;8.1;R;Mystery, Thriller;February;80000000.0;294804195.0;No;138;72.89999999999999;0.06521739130434782
+Signs;M. Night Shyamalan;2002;8;2.0;6.7;PG-13;Drama, Mystery, Sci-Fi;August;72000000.0;408247917.0;No;106;53.6;0.07547169811320754
+Silent Hill;Christophe Gans;2006;7;1.5;6.5;R;Horror;April;50000000.0;97607453.0;No;125;45.5;0.056
+Silent Hill: Revelation;Michael J. Bassett;2012;22;4.0;5.0;R;Horror;October;20000000.0;52302796.0;No;95;110.0;0.23157894736842105
+Silver Bullet;Dan Attias;1985;15;3.0;6.4;R;Horror;October;7000000.0;12361866.0;No;95;96.0;0.15789473684210525
+Sinister;Scott Derrickson;2012;17;5.0;6.8;R;Horror, Mystery, Thriller;October;3000000.0;77712439.0;No;110;115.6;0.15454545454545454
+Sinister 2;Ciarán Foy;2015;19;4.0;5.3;R;Horror, Mystery, Thriller;August;10000000.0;52882018.0;No;97;100.7;0.1958762886597938
+Sleepaway Camp;Robert Hiltzik;1983;6;1.5;6.3;R;Horror;November;350000.0;11000000.0;No;85;37.8;0.07058823529411765
+Sleepy Hollow;Tim Burton;1999;1;0.5;7.3;R;Fantasy, Horror, Mystery;November;100000000.0;206071502.0;No;105;7.3;0.009523809523809525
+Slender Man;Sylvain White;2018;15;3.5;3.2;PG-13;Horror, Mystery, Thriller;August;10000000.0;51738549.0;No;93;48.0;0.16129032258064516
+Slither;James Gunn;2006;10;3.0;6.4;R;Comedy, Horror, Sci-Fi;March;15000000.0;12834936.0;No;95;64.0;0.10526315789473684
+Slumber;Jonathan Hopkins;2017;12;3.0;4.6;R;Horror;December;;1243832.0;No;84;55.199999999999996;0.14285714285714285
+Species;Roger Donaldson;1995;7;3.0;5.8;R;Action, Horror, Sci-Fi;July;35000000.0;113374103.0;No;108;40.6;0.06481481481481481
+Sphere;Barry Levinson;1998;4;1.0;6.1;PG-13;Drama, Horror, Mystery;February;80000000.0;37020277.0;No;134;24.4;0.029850746268656716
+Splinter;Toby Wilkins;2008;10;3.0;6.1;R;Horror, Sci-Fi, Thriller;April;;491070.0;No;82;61.0;0.12195121951219512
+Split;M. Night Shyamalan;2016;3;0.5;7.3;PG-13;Horror, Thriller;January;9000000.0;278454358.0;No;117;21.9;0.02564102564102564
+Spring;Justin Benson, Aaron Moorhead;2014;1;0.5;6.7;NR;Horror, Romance, Sci-Fi;March;;49970.0;No;109;6.7;0.009174311926605505
+Stake Land;Jim Mickle;2010;1;0.5;6.5;R;Drama, Horror, Sci-Fi;June;650000.0;405380.0;No;98;6.5;0.01020408163265306
+Starry Eyes;Kevin Kolsch, Dennis Widmyer;2014;9;2.0;6.0;NR;Drama, Fantasy, Horror;November;;10220.0;No;98;54.0;0.09183673469387756
+Stephanie;Akiva Goldsman;2017;18;3.0;5.8;R;Horror, Mystery;April;;;Yes;86;104.39999999999999;0.20930232558139536
+Stir of Echoes;David Koepp;1999;9;3.0;7.0;R;Horror, Mystery, Thriller;September;12000000.0;21142914.0;No;99;63.0;0.09090909090909091
+Summer of 84;Anouk Whissell, François Simard, Yoann-Karl Whissell;2018;19;4.0;6.7;NR;Drama, Horror, Mystery;August;;42027.0;No;105;127.3;0.18095238095238095
+Sunshine;Danny Boyle;2007;6;1.5;7.2;R;Sci-Fi, Thriller;July;26000000.0;32017803.0;No;107;43.2;0.056074766355140186
+Super 8;J.J. Abrams;2011;15;3.5;7.0;PG-13;Mystery, Sci-Fi, Thriller;June;50000000.0;260095986.0;No;112;105.0;0.13392857142857142
+Suspiria;Dario Argento;1977;6;1.5;7.4;R;Horror;August;;21248.0;No;98;44.400000000000006;0.061224489795918366
+Suspiria;Luca Guadagnino;2018;2;0.5;7.1;R;Fantasy, Horror, Mystery;November;20000000.0;7942093.0;No;152;14.2;0.013157894736842105
+Tales of Halloween;Various Directors;2015;14;3.0;5.5;R;Comedy, Horror;October;;416792.0;Yes;92;77.0;0.15217391304347827
+Terrifier;Damien Leone;2017;18;3.5;5.6;NR;Horror, Thriller;March;100000.0;;Yes;82;100.8;0.21951219512195122
+Texas Chainsaw 3D;John Luessenhop;2013;14;3.0;4.8;R;Horror, Thriller;January;20000000.0;47241945.0;No;92;67.2;0.15217391304347827
+The 9th Life of Louis Drax;Alexandre Aja;2016;4;1.0;6.3;R;Mystery, Thriller;September;;584723.0;No;108;25.2;0.037037037037037035
+The Abandoned;Eytan Rockaway;2015;21;3.5;5.0;NR;Horror, Mystery, Thriller;June;850000.0;;No;87;105.0;0.2413793103448276
+The ABCs of Death;Various Directors;2012;0;0.0;4.7;NR;Comedy, Horror;April;;23589.0;No;129;0.0;0.0
+The Abyss;James Cameron;1989;2;0.5;7.6;PG-13;Adventure, Drama, Mystery;August;70000000.0;90000098.0;No;140;15.2;0.014285714285714285
+The Amityville Horror;Stuart Rosenberg;1979;8;2.5;6.0;R;Horror;July;4700000.0;86432000.0;No;117;48.0;0.06837606837606838
+The Amityville Horror;Andrew Douglas;2005;16;4.0;6.0;R;Horror;April;19000000.0;107516369.0;No;90;96.0;0.17777777777777778
+The Atticus Institute;Chris Sparling;2015;13;3.5;5.5;NR;Horror;January;1000000.0;32521.0;No;83;71.5;0.1566265060240964
+The Autopsy of Jane Doe;André Øvredal;2016;12;3.0;6.8;R;Horror, Mystery, Thriller;December;;5983416.0;Yes;99;81.6;0.12121212121212122
+The Babadook;Jennifer Kent;2014;11;3.0;6.8;NR;Drama, Horror;November;2000000.0;10312540.0;No;94;74.8;0.11702127659574468
+The Babysitter;McG;2017;8;2.5;6.3;TV-MA;Comedy, Horror;October;;;Yes;85;50.4;0.09411764705882353
+The Bay;Barry Levinson;2012;8;2.5;5.6;R;Horror, Sci-Fi, Thriller;November;;1581252.0;No;84;44.8;0.09523809523809523
+The Belko Experiment;Greg McLean;2016;8;2.5;6.1;R;Horror, Thriller;March;5000000.0;11084630.0;No;89;48.8;0.0898876404494382
+The Blackcoat's Daughter;Osgood Perkins;2015;3;0.5;5.9;R;Horror, Thriller;February;;38348.0;No;89;17.700000000000003;0.033707865168539325
+The Blair Witch Project;Daniel Myrick, Eduardo Sánchez;1999;0;0.0;6.5;R;Horror, Mystery;July;60000.0;248639099.0;No;81;0.0;0.0
+The Borderlands (Final Prayer);Elliot Goldner;2013;12;3.0;5.7;R;Horror;February;;;No;89;68.4;0.1348314606741573
+The Boy;Craig Macneill;2015;1;0.5;5.4;R;Drama, Horror, Thriller;March;;;No;89;5.4;0.011235955056179775
+The Boy;William Brent Bell;2016;11;3.0;6.0;PG-13;Horror, Mystery, Thriller;January;10000000.0;74136180.0;Yes;97;66.0;0.1134020618556701
+The Burning;Tony Maylam;1981;21;4.0;6.4;R;Horror;May;1500000.0;;No;91;134.4;0.23076923076923078
+The Butterfly Effect;Eric Bress, J. Mackye Gruber;2004;4;1.0;7.6;R;Drama, Sci-Fi, Thriller;January;13000000.0;95707652.0;No;120;30.4;0.03333333333333333
+The Bye Bye Man;Stacy Title;2017;13;3.0;4.3;PG-13;Drama, Fantasy, Horror;January;7400000.0;26667197.0;No;100;55.9;0.13
+The Cabin In The Woods;Drew Goddard;2012;13;3.0;7.0;R;Horror;April;30000000.0;94348403.0;No;95;91.0;0.1368421052631579
+The Call;Brad Anderson;2013;8;2.5;6.7;R;Crime, Drama, Horror;March;13000000.0;68572378.0;No;94;53.6;0.0851063829787234
+The Canal;Ivan Kavanagh;2014;4;2.0;5.9;R;Horror, Mystery, Thriller;October;;75212.0;No;92;23.6;0.043478260869565216
+The Changeling;Peter Medak;1980;7;2.0;7.2;R;Horror;March;7600000.0;;No;107;50.4;0.06542056074766354
+The Cloverfield Paradox;Julius Onah;2018;8;3.0;5.5;PG-13;Drama, Horror, Mystery;February;26000000.0;;Yes;102;44.0;0.0784313725490196
+The Collector;Marcus Dunstan;2009;2;1.0;6.4;R;Horror, Thriller;July;6000000.0;9444018.0;No;90;12.8;0.022222222222222223
+The Conjuring;James Wan;2013;12;4.0;7.5;R;Horror, Mystery, Thriller;July;20000000.0;319494638.0;Yes;112;90.0;0.10714285714285714
+The Conjuring 2;James Wan;2016;22;5.0;7.3;R;Horror, Mystery, Thriller;June;40000000.0;320392818.0;No;134;160.6;0.16417910447761194
+The Conspiracy;Christopher MacBride;2012;1;0.5;6.3;NR;Horror, Thriller;August;1500000.0;;No;84;6.3;0.011904761904761904
+The Conversation;Francis Ford Coppola;1974;1;0.5;7.8;PG;Drama, Mystery, Thriller;June;1600000.0;4432180.0;No;113;7.8;0.008849557522123894
+The Craft;Andrew Fleming;1996;4;1.0;6.3;R;Drama, Fantasy, Horror;May;15000000.0;24819936.0;No;101;25.2;0.039603960396039604
+The Crazies;Breck Eisner;2010;18;4.0;6.5;R;Horror, Thriller;February;20000000.0;54806823.0;No;101;117.0;0.1782178217821782
+The Crucifixion;Xavier Gens;2017;19;4.5;5.1;R;Horror, Mystery, Thriller;October;;6554322.0;No;90;96.89999999999999;0.2111111111111111
+The Cured;David Freyne;2017;16;3.0;5.5;R;Drama, Horror, Sci-Fi;February;;323776.0;No;95;88.0;0.16842105263157894
+The Curse of La Llorona;Michael Chaves;2019;20;4.0;5.4;R;Horror, Mystery, Thriller;April;9000000.0;122133739.0;No;93;108.0;0.21505376344086022
+The Dead Don’t Die;Jim Jarmusch;2019;0;0.0;5.5;R;Comedy, Fantasy, Horror;June;;13963605.0;No;104;0.0;0.0
+The Den;Zachary Donohue;2013;14;4.0;6.0;R;Horror, Mystery, Thriller;March;500000.0;410129.0;No;81;84.0;0.1728395061728395
+The Descent;Neil Marshall;2005;16;4.0;7.2;R;Adventure, Horror, Thriller;August;3500000.0;57130027.0;No;100;115.2;0.16
+The Devil Inside;William Brent Bell;2012;8;2.5;4.2;R;Horror;January;1000000.0;101758490.0;No;83;33.6;0.0963855421686747
+The Devil's Backbone;Guillermo del Toro;2001;4;1.5;7.4;R;Drama, Horror;April;4500000.0;6582065.0;No;108;29.6;0.037037037037037035
+The Devil's Candy;Sean Byrne;2015;8;2.0;6.4;NR;Drama, Horror, Thriller;March;;772319.0;Yes;79;51.2;0.10126582278481013
+The Devil's Rejects;Rob Zombie;2005;0;0.0;6.8;R;Horror;July;7000000.0;19390029.0;No;107;0.0;0.0
+The Disappointments Room;D.J. Caruso;2016;9;2.5;3.9;R;Drama, Horror, Thriller;September;15000000.0;5745040.0;Yes;90;35.1;0.1
+The Endless;Justin Benson, Aaron Moorhead;2017;7;2.5;6.5;NR;Fantasy, Horror, Sci-Fi;April;;956425.0;No;111;45.5;0.06306306306306306
+The Evil Dead;Sam Raimi;1981;22;4.0;7.5;NC-17;Horror;April;350000.0;2893091.0;No;85;165.0;0.25882352941176473
+The Exorcism of Emily Rose;Scott Derrickson;2005;8;2.5;6.7;PG-13;Drama, Horror, Thriller;September;19000000.0;144216468.0;No;121;53.6;0.06611570247933884
+The Exorcist;William Friedkin;1973;10;1.5;8.0;R;Horror;December;11000000.0;441306145.0;No;122;80.0;0.08196721311475409
+The Exorcist III;William Peter Blatty;1990;11;2.5;6.3;R;Drama, Horror, Mystery;August;;39024251.0;No;110;69.3;0.1
+The Eye;Danny Pang, Oxide Chun Pang;2002;5;2.0;6.7;R;Horror, Mystery;May;3310405.0;12165016.0;No;98;33.5;0.05102040816326531
+The Eyes of My Mother;Nicolas Pesce;2016;0;0.0;6.2;R;Drama, Horror;December;;29539.0;Yes;76;0.0;0.0
+The Faculty;Robert Rodriguez;1998;11;3.0;6.5;R;Horror, Sci-Fi;December;15000000.0;40283321.0;No;104;71.5;0.10576923076923077
+The Final Destination;David R. Ellis;2009;4;1.0;5.2;R;Horror, Thriller;August;40000000.0;186167139.0;No;82;20.8;0.04878048780487805
+The Final Girls;Todd Strauss-Schulson;2015;8;1.5;6.6;PG-13;Comedy, Drama, Fantasy;November;4500000.0;;No;88;52.8;0.09090909090909091
+The First Purge;Gerard McMurray;2018;8;2.5;5.1;R;Action, Horror, Sci-Fi;July;13000000.0;137056262.0;No;98;40.8;0.08163265306122448
+The Fly;David Cronenberg;1986;2;0.5;7.5;R;Drama, Horror, Sci-Fi;August;15000000.0;60632088.0;No;96;15.0;0.020833333333333332
+The Fog;John Carpenter;1980;16;3.5;6.8;R;Horror, Thriller;February;1000000.0;21448782.0;No;89;108.8;0.1797752808988764
+The Forest;Jason Zada;2016;13;3.5;4.8;PG-13;Horror, Mystery, Thriller;January;10000000.0;37608299.0;No;93;62.4;0.13978494623655913
+The Forgotten;Joseph Ruben;2004;7;3.0;5.8;PG-13;Drama, Mystery, Sci-Fi;September;42000000.0;117592831.0;No;91;40.6;0.07692307692307693
+The Gallows;Travis Cluff, Chris Lofing;2015;21;4.0;4.2;R;Horror, Mystery, Thriller;July;100000.0;42964410.0;No;81;88.2;0.25925925925925924
+The Gift;Joel Edgerton;2015;5;1.5;7.0;R;Drama, Mystery, Thriller;August;5000000.0;58980521.0;No;108;35.0;0.046296296296296294
+The Girl with All the Gifts;Colm McCarthy;2016;3;1.0;6.6;R;Drama, Horror, Sci-Fi;January;5109996.0;4086096.0;No;111;19.799999999999997;0.02702702702702703
+The Good Neighbor;Kasra Farahani;2016;7;2.0;6.3;NR;Crime, Drama, Horror;August;;90573.0;Yes;98;44.1;0.07142857142857142
+The Green Inferno;Eli Roth;2013;4;1.0;5.3;R;Adventure, Horror;September;5000000.0;12666449.0;No;100;21.2;0.04
+The Grudge;Takashi Shimizu;2004;23;4.0;5.9;PG-13;Horror, Mystery, Thriller;October;10000000.0;187281115.0;No;98;135.70000000000002;0.23469387755102042
+The Guest;Adam Wingard;2014;5;1.5;6.7;R;Action, Comedy, Crime;September;5000000.0;2700051.0;No;100;33.5;0.05
+The Hallow;Corin Hardy;2015;17;3.5;5.7;NR;Horror;November;;1862407.0;No;97;96.9;0.17525773195876287
+The Happening;M. Night Shyamalan;2008;1;0.5;5.0;R;Drama, Mystery, Sci-Fi;June;48000000.0;163403799.0;No;90;5.0;0.011111111111111112
+The Harvest;John McNaughton;2013;0;0.0;6.1;NR;Drama, Mystery, Thriller;April;;;No;104;0.0;0.0
+The Haunting;Robert Wise;1963;3;1.0;7.6;G;Horror;August;1400000.0;1020000.0;No;112;22.799999999999997;0.026785714285714284
+The Haunting in Connecticut;Peter Cornwell;2009;26;4.5;5.9;PG-13;Drama, Horror, Mystery;March;10000000.0;99279998.0;No;102;153.4;0.2549019607843137
+The Haunting in Connecticut 2: Ghosts of Georgia;Tom Elkins;2013;32;5.0;5.3;R;Drama, Horror, Mystery;March;9000000.0;5127434.0;No;101;169.6;0.31683168316831684
+The Hills Have Eyes;Alexandre Aja;2006;9;2.5;6.4;R;Horror, Thriller;March;15000000.0;69623713.0;No;107;57.6;0.08411214953271028
+The Hole;Nick Hamm;2001;3;0.5;6.2;R;Drama, Mystery, Thriller;October;5312313.0;7819851.0;No;102;18.6;0.029411764705882353
+The House of the Devil;Ti West;2009;4;1.0;6.4;R;Horror;May;900000.0;101215.0;No;95;25.6;0.042105263157894736
+The House on Pine Street;Aaron Keeling, Austin Keeling;2015;5;1.0;5.3;NR;Drama, Horror;February;;106745.0;No;111;26.5;0.04504504504504504
+The House with a Clock in Its Walls;Eli Roth;2018;8;1.5;6.0;PG-13;Comedy, Fantasy, Horror;September;42000000.0;131457147.0;No;105;48.0;0.0761904761904762
+The Howling;Joe Dante;1981;10;2.5;6.6;R;Horror;April;1000000.0;17985893.0;No;91;66.0;0.10989010989010989
+The Human Centipede (First Sequence);Tom Six;2009;4;1.5;4.4;R;Horror;April;1652841.0;325113.0;No;92;17.6;0.043478260869565216
+The Innkeepers;Ti West;2011;9;2.0;5.4;R;Drama, Horror, Mystery;March;750000.0;1178831.0;No;101;48.6;0.0891089108910891
+The Innocents;Jack Clayton;1961;4;0.5;7.8;NR;Horror;December;549616.0;30103.0;No;100;31.2;0.04
+The Invitation;Karyn Kusama;2015;5;1.0;6.6;NR;Drama, Horror, Mystery;April;1000000.0;354835.0;Yes;100;33.0;0.05
+The Jacket;John Maybury;2005;6;1.5;7.1;R;Drama, Fantasy, Mystery;March;29000000.0;21733230.0;No;103;42.599999999999994;0.05825242718446602
+The Killing of a Sacred Deer;Yorgos Lanthimos;2017;3;0.5;7.0;R;Drama, Mystery, Thriller;November;;7027336.0;No;101;21.0;0.0297029702970297
+The Last Exorcism;Daniel Stamm;2010;7;2.0;5.6;PG-13;Horror, Mystery, Thriller;August;1800000.0;67738090.0;No;87;39.199999999999996;0.08045977011494253
+The Last House on the Left;Dennis Iliadis;2009;4;0.5;6.5;NR;Horror, Thriller;March;15000000.0;45992398.0;No;114;26.0;0.03508771929824561
+The Lazarus Effect;David Gelb;2015;18;4.5;5.2;PG-13;Horror, Mystery, Sci-Fi;February;3300000.0;38356892.0;No;83;93.60000000000001;0.21686746987951808
+The Limehouse Golem;Juan Carlos Medina;2016;0;0.0;6.3;NR;Crime, Mystery, Thriller;September;;2327419.0;No;109;0.0;0.0
+The Little Stranger;Lenny Abrahamson;2018;0;0.0;5.5;R;Drama, Horror, Mystery;September;;1824902.0;No;111;0.0;0.0
+The Love Witch;Anna Biller;2016;0;0.0;6.2;NR;Comedy, Horror, Romance;March;;246218.0;No;121;0.0;0.0
+The Meg;Jon Turteltaub;2018;18;3.5;5.7;PG-13;Action, Horror, Sci-Fi;August;130000000.0;530243742.0;No;113;102.60000000000001;0.1592920353982301
+The Messengers;Danny Pang, Oxide Chun Pang;2007;27;4.5;5.4;PG-13;Horror, Mystery, Thriller;February;16000000.0;55060212.0;No;90;145.8;0.3
+The Midnight Meat Train;Ryûhei Kitamura;2008;1;0.5;6.1;NR;Horror, Mystery;May;15000000.0;3533227.0;No;98;6.1;0.01020408163265306
+The Mist;Frank Darabont;2007;5;1.0;7.1;R;Horror, Sci-Fi;November;18000000.0;57293715.0;No;126;35.5;0.03968253968253968
+The Monster;Bryan Bertino;2016;11;3.0;5.4;R;Drama, Fantasy, Horror;October;2700000.0;74700.0;Yes;91;59.400000000000006;0.12087912087912088
+The Mothman Prophecies;Mark Pellington;2002;4;1.0;6.4;PG-13;Drama, Horror, Mystery;January;32000000.0;55305279.0;No;119;25.6;0.03361344537815126
+The Mummy;Alex Kurtzman;2017;16;3.5;5.5;PG-13;Action, Adventure, Fantasy;June;125000000.0;409231607.0;No;110;88.0;0.14545454545454545
+The Neighbor;Marcus Dunstan;2016;3;1.0;5.3;NR;Crime, Horror, Thriller;September;;164348.0;No;87;15.899999999999999;0.034482758620689655
+The Neon Demon;Nicolas Winding Refn;2016;2;0.5;6.2;R;Horror, Thriller;June;7000000.0;3377430.0;No;118;12.4;0.01694915254237288
+The New Daughter;Luiso Berdejo;2009;11;2.5;5.3;PG-13;Horror, Thriller;October;15000000.0;477004.0;No;108;58.3;0.10185185185185185
+The Ninth Gate;Roman Polanski;1999;0;0.0;6.7;R;Mystery, Thriller;March;38000000.0;58401898.0;No;133;0.0;0.0
+The Number 23;Joel Schumacher;2007;3;0.5;6.4;NR;Crime, Mystery, Thriller;February;30000000.0;77566815.0;No;101;19.200000000000003;0.0297029702970297
+The Nun;Corin Hardy;2018;21;4.5;5.4;R;Horror, Mystery, Thriller;September;22000000.0;365550119.0;No;96;113.4;0.21875
+The Omen;Richard Donner;1976;1;0.5;7.5;R;Horror;June;2800000.0;60922980.0;No;111;7.5;0.009009009009009009
+The Ones Below;David Farr;2015;0;0.0;6.1;R;Drama, Thriller;May;3700000.0;121827.0;Yes;87;0.0;0.0
+The Open House;Matt Angel, Suzanne Coote;2018;14;3.0;3.3;NR;Horror, Thriller;January;100000.0;;Yes;94;46.199999999999996;0.14893617021276595
+The Orphanage;J.A. Bayona;2007;6;1.5;7.4;R;Drama, Horror, Mystery;January;3746439.0;78638987.0;No;105;44.400000000000006;0.05714285714285714
+The Other Side of the Door;Johannes Roberts;2016;16;3.5;5.3;R;Horror;March;5000000.0;14332467.0;No;96;84.8;0.16666666666666666
+The Others;Alejandro Amenábar;2001;4;2.0;7.6;PG-13;Horror, Mystery, Thriller;August;17000000.0;209947037.0;No;101;30.4;0.039603960396039604
+The Pact;Nicholas McCarthy;2012;12;3.0;5.8;R;Horror, Mystery, Thriller;June;400000.0;3035415.0;No;89;69.6;0.1348314606741573
+The People Under the Stairs;Wes Craven;1991;13;3.0;6.4;R;Comedy, Horror, Mystery;November;6000000.0;31347154.0;No;102;83.2;0.12745098039215685
+The Perfection;Richard Shepard;2019;1;0.5;6.1;TV-MA;Drama, Horror, Thriller;May;;;Yes;90;6.1;0.011111111111111112
+The Possession;Ole Bornedal;2012;10;3.0;5.9;R;Horror, Mystery, Thriller;August;14000000.0;85446075.0;No;94;59.0;0.10638297872340426
+The Possession of Michael King;David Jung;2014;20;4.0;5.7;R;Horror;August;;2405143.0;No;93;114.0;0.21505376344086022
+The Predator;Shane Black;2018;6;1.5;5.4;R;Action, Adventure, Sci-Fi;September;88000000.0;160542134.0;No;107;32.400000000000006;0.056074766355140186
+The Purge;James DeMonaco;2013;12;3.0;5.7;R;Horror, Thriller;June;3000000.0;89328627.0;No;85;68.4;0.1411764705882353
+The Purge: Anarchy;James DeMonaco;2014;13;3.0;6.4;R;Action, Horror, Sci-Fi;July;9000000.0;111928365.0;No;104;83.2;0.125
+The Purge: Election Year;James DeMonaco;2016;9;2.5;6.0;R;Action, Horror, Sci-Fi;July;10000000.0;118587880.0;No;105;54.0;0.08571428571428572
+The Quiet Ones;John Pogue;2014;23;4.0;5.1;PG-13;Horror, Mystery, Thriller;April;200000.0;17834867.0;No;98;117.3;0.23469387755102042
+The Return of the Living Dead;Dan O'Bannon;1985;1;0.5;7.3;R;Comedy, Horror, Sci-Fi;August;4000000.0;14237880.0;No;91;7.3;0.01098901098901099
+The Ring;Gore Verbinski;2002;9;2.5;7.1;PG-13;Horror, Mystery;October;48000000.0;249348933.0;No;115;63.9;0.0782608695652174
+The Ring Two;Hideo Nakata;2005;11;3.0;5.4;PG-13;Horror, Mystery;March;50000000.0;160864957.0;No;105;59.400000000000006;0.10476190476190476
+The Rite;Mikael Håfström;2011;7;2.0;6.0;PG-13;Drama, Horror, Mystery;January;37000000.0;96047633.0;Yes;114;42.0;0.06140350877192982
+The Ritual;David Bruckner;2017;15;3.0;6.3;NR;Horror, Mystery, Thriller;February;;1569665.0;Yes;94;94.5;0.1595744680851064
+The Sacrament;Ti West;2013;2;0.5;6.1;R;Horror, Thriller;May;4000000.0;9221.0;No;99;12.2;0.020202020202020204
+The Shallows;Jaume Collet-Serra;2016;9;2.5;6.3;PG-13;Drama, Horror, Thriller;June;17000000.0;119100758.0;No;86;56.699999999999996;0.10465116279069768
+The Shape of Water;Guillermo del Toro;2017;2;0.5;7.3;R;Adventure, Drama, Fantasy;December;19400000.0;195243464.0;No;123;14.6;0.016260162601626018
+The Shining;Stanley Kubrick;1980;3;0.5;8.4;R;Drama, Horror;June;19000000.0;45655744.0;Yes;144;25.200000000000003;0.020833333333333332
+The Silence of the Lambs;Jonathan Demme;1991;0;0.0;8.6;R;Crime, Drama, Thriller;February;19000000.0;272753884.0;No;118;0.0;0.0
+The Sixth Sense;M. Night Shyamalan;1999;8;1.5;8.1;PG-13;Drama, Mystery, Thriller;August;40000000.0;672806292.0;Yes;107;64.8;0.07476635514018691
+The Skeleton Key;Iain Softley;2005;11;3.0;6.5;PG-13;Drama, Horror, Mystery;August;43000000.0;91974818.0;No;104;71.5;0.10576923076923077
+The Snowman;Tomas Alfredson;2017;9;2.0;5.1;R;Crime, Drama, Mystery;October;35000000.0;43084060.0;No;119;45.9;0.07563025210084033
+The Strangers;Bryan Bertino;2008;16;4.5;6.2;R;Horror, Mystery, Thriller;May;9000000.0;82391145.0;No;86;99.2;0.18604651162790697
+The Strangers: Prey at Night;Johannes Roberts;2018;14;3.5;5.2;R;Horror;March;5000000.0;31039126.0;No;85;72.8;0.16470588235294117
+The Taking of Deborah Logan;Adam Robitel;2014;19;3.5;6.0;R;Horror, Mystery, Thriller;October;1500000.0;407782.0;No;90;114.0;0.2111111111111111
+The Texas Chain Saw Massacre;Tobe Hooper;1974;2;1.0;7.5;R;Horror;October;300000.0;30859000.0;No;83;15.0;0.024096385542168676
+The Texas Chainsaw Massacre;Marcus Nispel;2003;16;3.0;6.2;R;Horror;October;9500000.0;107362708.0;No;98;99.2;0.16326530612244897
+The Texas Chainsaw Massacre: The Beginning;Jonathan Liebesman;2006;17;3.5;5.8;R;Horror, Thriller;October;16000000.0;51764406.0;Yes;91;98.6;0.18681318681318682
+The Thing;John Carpenter;1982;7;2.0;8.1;R;Horror, Mystery, Sci-Fi;June;15000000.0;19629760.0;No;109;56.699999999999996;0.06422018348623854
+The Thing;Matthijs van Heijningen Jr.;2011;7;2.5;6.2;R;Horror, Mystery, Sci-Fi;October;38000000.0;27428670.0;No;103;43.4;0.06796116504854369
+The Town That Dreaded Sundown;Alfonso Gomez-Rejon;2014;8;3.0;5.6;R;Horror, Mystery, Thriller;October;400000.0;5000000.0;No;86;44.8;0.09302325581395349
+The Transfiguration;Michael O’Shea;2016;2;1.0;6.0;NR;Drama, Horror;April;;28631.0;No;97;12.0;0.020618556701030927
+The Tunnel;Carlo Ledesma;2011;6;2.5;5.9;NR;Horror, Mystery, Thriller;May;135000.0;1532.0;No;91;35.400000000000006;0.06593406593406594
+The Unborn;David S. Goyer;2009;14;3.5;4.8;PG-13;Drama, Horror, Mystery;January;16000000.0;76514050.0;Yes;88;67.2;0.1590909090909091
+The Uninvited;Charles & Thomas Guard;2009;11;3.0;6.3;PG-13;Drama, Horror, Mystery;January;10325824.0;41624046.0;Yes;87;69.3;0.12643678160919541
+The Veil;Phil Joanou;2016;12;3.0;4.7;R;Horror;January;4000000.0;;Yes;93;56.400000000000006;0.12903225806451613
+The Village;M. Night Shyamalan;2004;4;1.0;6.5;PG-13;Drama, Mystery, Thriller;July;60000000.0;256697520.0;No;108;26.0;0.037037037037037035
+The Visit;M. Night Shyamalan;2015;8;2.5;6.2;PG-13;Horror, Mystery, Thriller;September;5000000.0;98450062.0;No;94;49.6;0.0851063829787234
+The Voices;Marjane Satrapi;2014;3;0.5;6.4;R;Comedy, Crime, Horror;February;;2097718.0;No;103;19.200000000000003;0.02912621359223301
+The Void;Jeremy Gillespie, Steven Kostanski;2016;8;2.0;5.8;NR;Horror, Mystery, Sci-Fi;April;;368372.0;Yes;90;46.4;0.08888888888888889
+The Wailing;Na Hong-jin;2016;4;1.0;7.4;NR;Horror, Mystery, Thriller;June;6420000.0;49851770.0;Yes;156;29.6;0.02564102564102564
+The Ward;John Carpenter;2010;15;4.0;5.6;R;Horror, Mystery, Thriller;July;10000000.0;52965.0;No;89;84.0;0.16853932584269662
+The Wicker Man;Robin Hardy;1973;4;0.5;7.6;R;Horror, Mystery, Thriller;August;810000.0;98201.0;No;93;30.4;0.043010752688172046
+The Witch;Robert Eggers;2015;4;1.5;6.8;R;Drama, Horror, Mystery;February;4000000.0;40423945.0;Yes;92;27.2;0.043478260869565216
+The Wolfman;Joe Johnston;2010;18;4.0;5.8;R;Drama, Fantasy, Horror;February;150000000.0;139789765.0;No;119;104.39999999999999;0.15126050420168066
+The Woman in Black;James Watkins;2012;16;4.0;6.4;PG-13;Drama, Fantasy, Horror;February;17000000.0;127730736.0;No;95;102.4;0.16842105263157894
+The Woman in Black 2: Angel of Death;Tom Harper;2014;14;4.0;4.8;PG-13;Drama, Horror, Thriller;January;15000000.0;48854305.0;No;98;67.2;0.14285714285714285
+Them (Ils);David Moreau, Xavier Palud;2006;16;4.0;6.4;R;Horror, Thriller;July;2350000.0;5405885.0;No;74;102.4;0.21621621621621623
+Thesis (Tesis);Alejandro Amenábar;1996;3;0.5;7.4;R;Horror, Mystery, Thriller;April;794701.0;14227.0;No;125;22.200000000000003;0.024
+They Look Like People;Perry Blackshear;2015;2;0.5;5.9;NR;Drama, Horror, Mystery;February;;;No;80;11.8;0.025
+Thirteen Ghosts;Steve Beck;2001;17;3.0;5.6;R;Horror, Thriller;October;42000000.0;68467960.0;No;91;95.19999999999999;0.18681318681318682
+Timecrimes;Nacho Vigalondo;2007;3;0.5;7.2;R;Horror, Mystery, Sci-Fi;June;2600000.0;553198.0;No;92;21.6;0.03260869565217391
+Tragedy Girls;Tyler Macintyre;2017;8;2.0;6.0;R;Comedy, Crime, Horror;October;;122211.0;No;98;48.0;0.08163265306122448
+Train to Busan;Sang-ho Yeon;2016;4;1.0;7.5;M;Action, Horror, Thriller;July;8629915.0;87547518.0;Yes;118;30.0;0.03389830508474576
+Trash Fire;Richard Bates Jr.;2016;0;0.0;5.8;R;Comedy, Drama, Horror;November;;;Yes;91;0.0;0.0
+Tremors;Ron Underwood;1990;16;2.5;7.1;PG-13;Comedy, Horror;January;11000000.0;16667084.0;No;96;113.6;0.16666666666666666
+Triangle;Christopher Smith;2009;5;1.0;6.9;R;Fantasy, Mystery, Thriller;October;12000000.0;1332682.0;No;99;34.5;0.050505050505050504
+Trick 'r Treat;Michael Dougherty;2007;6;2.5;6.8;R;Comedy, Horror;December;12000000.0;;No;82;40.8;0.07317073170731707
+Truth or Dare;Jeff Wadlow;2018;7;2.0;5.1;PG-13;Horror, Thriller;April;3500000.0;95330493.0;No;101;35.699999999999996;0.06930693069306931
+Tucker and Dale vs. Evil;Eli Craig;2010;9;1.5;7.5;R;Comedy, Horror;December;5000000.0;4749516.0;No;89;67.5;0.10112359550561797
+Tusk;Kevin Smith;2014;0;0.0;5.3;R;Comedy, Drama, Horror;September;3000000.0;1882074.0;Yes;105;0.0;0.0
+Under the Shadow;Babak Anvari;2016;9;3.5;6.9;PG-13;Drama, Horror, Thriller;October;1000000.0;133324.0;Yes;84;62.1;0.10714285714285714
+Unfriended;Leo Gabriadze;2014;5;3.0;5.5;R;Horror, Mystery, Thriller;April;1000000.0;62882090.0;No;83;27.5;0.060240963855421686
+Unfriended: Dark Web;Stephen Susco;2018;6;1.5;5.9;R;Horror, Mystery, Thriller;July;1000000.0;16024987.0;No;92;35.400000000000006;0.06521739130434782
+Unsane;Steven Soderbergh;2018;2;0.5;6.4;R;Drama, Horror, Mystery;March;1500000.0;14293601.0;No;98;12.8;0.02040816326530612
+Urban Legend;Jamie Blanks;1998;17;4.0;5.5;R;Horror, Mystery, Thriller;September;14000000.0;72527595.0;No;100;93.5;0.17
+Us;Jordan Peele;2019;11;2.5;6.9;R;Horror, Mystery, Thriller;March;20000000.0;255105930.0;No;116;75.9;0.09482758620689655
+Uzumaki;Higuchinsky;2000;15;3.0;6.2;NR;Drama, Fantasy, Horror;February;1000000.0;;No;90;93.0;0.16666666666666666
+Vacancy;Nimród Antal;2007;12;2.5;6.2;R;Horror, Thriller;April;19000000.0;35300645.0;No;85;74.4;0.1411764705882353
+Velvet Buzzsaw;Dan Gilroy;2019;10;2.5;5.7;R;Horror, Mystery, Thriller;February;21200000.0;;No;112;57.0;0.08928571428571429
+Veronica;Paco Plaza;2017;10;3.0;6.2;NR;Horror;August;;6123089.0;Yes;105;62.0;0.09523809523809523
+V/H/S;Various Directors;2012;7;3.5;5.8;R;Horror, Thriller;September;;1944287.0;No;116;40.6;0.0603448275862069
+V/H/S/2;Various Directors;2013;14;4.0;6.0;R;Horror, Thriller;June;;805574.0;No;96;84.0;0.14583333333333334
+Victor Frankenstein;Paul McGuigan;2015;6;1.5;6.0;PG-13;Drama, Horror, Sci-Fi;November;65000000.0;34227298.0;No;110;36.0;0.05454545454545454
+Viral;Henry Joost, Ariel Schulman;2016;20;4.0;5.5;R;Drama, Horror, Sci-Fi;July;;551760.0;No;85;110.0;0.23529411764705882
+Visions;Kevin Greutert;2015;10;3.5;5.3;R;Horror, Mystery;January;;1013805.0;No;82;53.0;0.12195121951219512
+Wait Until Dark;Terence Young;1967;1;0.5;7.8;NR;Horror, Thriller;January;3000000.0;;No;108;7.8;0.009259259259259259
+We Are Still Here;Ted Geoghegan;2015;12;3.0;5.7;NR;Horror;December;;;No;84;68.4;0.14285714285714285
+Wes Craven's New Nightmare;Wes Craven;1994;11;2.5;6.4;R;Fantasy, Horror, Mystery;October;8000000.0;19721741.0;No;112;70.4;0.09821428571428571
+What Lies Beneath;Robert Zemeckis;2000;16;3.0;6.6;PG-13;Drama, Fantasy, Horror;July;100000000.0;291420351.0;No;130;105.6;0.12307692307692308
+When a Stranger Calls;Fred Walton;1979;5;2.0;6.6;R;Horror, Thriller;February;15000000.0;66966987.0;No;97;33.0;0.05154639175257732
+Wildling;Fritz Böhm;2018;4;1.5;5.5;R;Drama, Fantasy, Horror;April;;504718.0;No;92;22.0;0.043478260869565216
+Winchester;Michael Spierig, Peter Spierig;2018;17;4.0;5.4;PG-13;Biography, Drama, Fantasy;February;3500000.0;44019588.0;No;99;91.80000000000001;0.1717171717171717
+Wind Chill;Gregory Jacobs;2007;13;3.0;5.8;R;Drama, Horror, Thriller;August;6000000.0;285060.0;No;91;75.39999999999999;0.14285714285714285
+Wish Upon;John R. Leonetti;2017;11;2.0;5.0;PG-13;Drama, Fantasy, Horror;July;12000000.0;23468586.0;No;90;55.0;0.12222222222222222
+Wolf Creek;Greg McLean;2005;0;0.0;6.2;R;Horror, Thriller;December;1000000.0;30762648.0;No;99;0.0;0.0
+World War Z;Marc Forster;2013;7;2.5;7.0;NR;Action, Adventure, Horror;June;190000000.0;540007876.0;No;123;49.0;0.056910569105691054
+Would You Rather;David Guy Levy;2012;3;1.0;5.7;NR;Horror, Thriller;June;;;Yes;93;17.1;0.03225806451612903
+Wrong Turn;Rob Schmidt;2003;13;3.0;6.1;R;Horror;May;12600000.0;28650575.0;No;84;79.3;0.15476190476190477
+You're Next;Adam Wingard;2011;11;3.0;6.5;R;Horror, Mystery, Thriller;August;1000000.0;26895481.0;No;95;71.5;0.11578947368421053
+Zodiac;David Fincher;2007;3;0.5;7.7;R;Crime, Drama, Mystery;March;65000000.0;84785914.0;No;163;23.1;0.018404907975460124
+Zombieland;Ruben Fleischer;2009;9;3.0;7.6;R;Adventure, Comedy, Horror;October;23600000.0;102392080.0;No;88;68.39999999999999;0.10227272727272728
